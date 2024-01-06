@@ -1,397 +1,397 @@
 ---
-_lang_: "Ελληνικά"
-monthAndDay: "{day}/{month}"
-search: "Αναζήτηση"
-notifications: "Ειδοποιήσεις"
-username: "Όνομα μέλους"
-password: "Κωδικός πρόσβασης"
-forgotPassword: "Ξέχασα τον κωδικό πρόσβασης"
-fetchingAsApObject: "Μαζεύοντας από το Fediverse..."
-ok: "Εντάξει"
-gotIt: "Τό'πιασα!"
-cancel: "Ακύρωση"
-enterUsername: "Εισάγετε το όνομα μέλους"
-renotedBy: "Κοινοποιήθηκε από {user}"
-noNotes: "Δεν υπάρχουν σημειώματα"
-noNotifications: "Δεν υπάρχουν ειδοποιήσεις"
-settings: "Ρυθμίσεις"
-basicSettings: "Βασικές ρυθμίσεις"
-otherSettings: "Άλλες ρυθμίσεις"
-openInWindow: "Άνοιγμα σε παράθυρο"
-profile: "Προφίλ"
-timeline: "Χρονολόγιο"
-noAccountDescription: "Αυτό το μέλος δεν έχει γράψει βιογραφικό ακόμη."
-login: "Σύνδεση"
-loggingIn: "Συνδέεστε"
-logout: "Αποσύνδεση"
-signup: "Δημιουργία λογαριασμού"
-uploading: "Ανέβασμα..."
-save: "Αποθήκευση"
-users: "Μέλη"
-addUser: "Προσθήκη μέλους"
-favorite: "Προσθήκη στα αγαπημένα"
-favorites: "Αγαπημένα"
-unfavorite: "Αφαίρεση από αγαπημένα"
-favorited: "Προστέθηκε στα αγαπημένα."
-alreadyFavorited: "Έχει ήδη προστεθεί στα αγαπημένα."
-cantFavorite: "Αδυναμία προσθήκης στα αγαπημένα."
-pin: "Καρφίτσωμα στο προφίλ"
-unpin: "Ξεκαρφίτσωμα από το προφίλ"
-copyContent: "Αντιγραφή περιεχομένων"
-copyLink: "Αντιγραφή συνδέσμου"
-delete: "Διαγραφή"
-deleteAndEdit: "Διαγραφή και επεξεργασία"
-deleteAndEditConfirm: "Σίγουρα θέλετε να διαγράψετε αυτό το σημείωμα και να το επεξεργαστείτε; Θα χάσετε όλες τις αντιδράσεις, κοινοποιήσεις και απαντήσεις σε αυτό."
-addToList: "Προσθήκη στη λίστα"
-sendMessage: "Αποστολή μηνύματος"
-copyUsername: "Αντιγραφή ονόματος μέλους"
-searchUser: "Αναζήτηση μέλους"
-reply: "Απάντηση"
-loadMore: "Φόρτωσε περισσότερα"
-showMore: "Δείξε περισσότερα"
-showLess: "Κλείσιμο"
-youGotNewFollower: "σε ακολούθησε"
-receiveFollowRequest: "Λάβατε αίτημα ακολούθησης"
-followRequestAccepted: "Το αίτημα ακολούθησης έγινε δεκτό"
-mention: "Επισήμανση"
-mentions: "Επισημάνσεις"
-directNotes: "Απευθείας σημειώματα"
-importAndExport: "Εισαγωγή / Εξαγωγή"
-import: "Εισαγωγή"
-export: "Εξαγωγή"
-files: "Αρχεία"
-download: "Λήψη"
-driveFileDeleteConfirm: "Θέλετε σίγουρα να διαγράψετε το αρχείο \"{name}\"; Τα σημειώματα με αυτό το συνημμένο αρχείο επίσης θα διαγραφούν."
-unfollowConfirm: "Θέλετε σίγουρα να σταματήσετε να ακολουθείτε το μέλος {name};"
-exportRequested: "Ζητήσατε μία εξαγωγή. Αυτό μπορεί να πάρει κάποιον χρόνο. Επίσης θα προστεθεί στον Δίσκο σας μόλις ολοκληρωθεί."
-importRequested: "Ζητήσατε μία εισαγωγή. Αυτό μπορεί να πάρει κάποιον χρόνο."
-lists: "Λίστες"
-noLists: "Δεν έχετε λίστες"
-note: "Σημείωμα"
-notes: "Σημειώματα"
-following: "Ακολουθεί"
-followers: "Ακολουθούν"
-followsYou: "Σε ακολουθεί"
-createList: "Δημιουργία λίστας"
-manageLists: "Διαχείριση λιστών"
-error: "Σφάλμα"
-somethingHappened: "Προέκυψε ένα σφάλμα"
-retry: "Προσπάθεια ξανά"
-pageLoadError: "Ένα σφάλμα προέκυψε φορτώνοντας τη σελίδα."
-pageLoadErrorDescription: "Αυτό κανονικά προκαλείται από σφάλματα δικτύου ή από την προσωρινή μνήμη του προγράμματος περιήγησης. Δοκιμάστε να σβήσετε την προσωρινή μνήμη (cache) και ξαναδοκιμάστε μετά από λίγο."
-serverIsDead: "Αυτός ο server δεν αποκρίνεται. Παρακαλώ περιμέντε λίγο και δοκιμάστε ξανά."
-youShouldUpgradeClient: "Για να δείτε αυτή τη σελίδα, παρακαλώ επαναφορτώστε για να ενημερωθεί το πρόγραμμα."
-enterListName: "Πληκτρολογήστε ένα όνομα για τη λίστα"
-privacy: "Ιδιωτικότητα"
-makeFollowManuallyApprove: "Τα αιτήματα ακολούθησης χρειάζονται έγκριση"
-defaultNoteVisibility: "Προεπιλεγμένη ορατότητα"
-follow: "Ακολουθήστε"
-followRequest: "Στείλτε αίτημα ακολούθησης"
-followRequests: "Αιτήματα ακολούθησης"
-unfollow: "Να μην ακολουθώ"
-followRequestPending: "Το αίτημα ακολούθησης εκκρεμεί"
-enterEmoji: "Εισάγετε ένα emoji"
-renote: "Κοινοποίηση σημειώματος"
-unrenote: "Ακύρωση κοινοποίησης"
-renoted: "Κοινοποιήθηκε."
-cantRenote: "Αυτή η δημοσίευση δεν μπορεί να κοινοποιηθεί."
-cantReRenote: "Μία κοινοποίηση δεν μπορεί να κοινοποιηθεί."
-quote: "Παράθεση"
-pinnedNote: "Καρφιτσωμένο σημείωμα"
-pinned: "Καρφίτσωμα στο προφίλ"
-you: "Εσύ"
-clickToShow: "Κάντε κλικ για εμφάνιση"
-add: "Προσθέστε"
-reaction: "Αντιδράσεις"
-reactions: "Αντιδράσεις"
-reactionSettingDescription2: "Σύρετε για να αλλάξετε τη σειρά, κάντε κλικ για να διαγράψετε, πατήστε \"+\" για να προσθέσετε."
-rememberNoteVisibility: "Θυμήσου τις ρυθμίσεις ορατότητας σημειώματος"
-attachCancel: "Διαγραφή αρχείου"
-enterFileName: "Πληκτρολογήστε όνομα αρχείου"
-mute: "Σίγαση"
-unmute: "Άρση σίγασης"
-block: "Μπλοκάρισμα"
-unblock: "Άρση μπλοκαρίσματος"
-suspend: "Αποβολή"
-unsuspend: "Άρση αποβολής"
-blockConfirm: "Θέλετε σίγουρα να μπλοκάρετε αυτόν τον λογαριασμό;"
-unblockConfirm: "Θέλετε σίγουρα να ξεμπλοκάρετε αυτόν τον λογαριασμό;"
-suspendConfirm: "Θέλετε σίγουρα να αποβάλλετε αυτόν τον λογαριασμό;"
-unsuspendConfirm: "Θέλετε σίγουρα να άρετε την αποβολή αυτού του λογαριασμού;"
-selectList: "Επιλέξτε μία λίστα"
-selectAntenna: "Επιλέξτε μία αντένα"
-selectWidget: "Επιλέξτε ένα μαραφέτι"
-editWidgets: "Επεξεργασία μαραφετίων"
-editWidgetsExit: "Ολοκληρώθηκε"
-customEmojis: "Επιπλέον emoji"
-emojiName: "Όνομα emoji"
-addEmoji: "Προσθήκη emoji"
-settingGuide: "Συνιστώμενες ρυθμίσεις"
-flagAsBot: "Αυτός ο λογαριασμός είναι bot"
-flagAsCat: "Αυτός ο λογαριασμός είναι γάτα"
-flagShowTimelineReplies: "Εμφάνιση απαντήσεων στο χρονολόγιο"
-addAccount: "Προσθήκη λογαριασμού"
-general: "Γενικές"
-wallpaper: "Ταπετσαρία"
-setWallpaper: "Ορισμός ταπετσαρίας"
-removeWallpaper: "Διαγραφή ταπετσαρίας"
-searchWith: "Αναζήτηση: {q}"
-youHaveNoLists: "Δεν έχετε λίστες"
-followConfirm: "Θέλετε σίγουρα να ακολουθήσετε τον λογαριασμό {name};"
-host: "Φιλοξενεί"
-selectUser: "Επιλέξτε ένα μέλος"
-recipient: "Αποδέκτης-τρια"
-annotation: "Σχόλια"
-federation: "Ομοσπονδία"
-storageUsage: "Χρήση χώρου"
-version: "Έκδοση"
-metadata: "Μεταδεδομένα"
-network: "Δίκτυο"
-disk: "Δίσκος"
-instanceInfo: "Πληροφορίες του instance"
-statistics: "Στατιστικά"
-clearQueue: "Εκκαθάριση ουράς"
-clearQueueConfirmTitle: "Θέλετε να διαγράψετε την ουρά;"
-clearCachedFiles: "Εκκαθάριση προσωρινής μνήμης"
-done: "Ολοκληρώθηκε"
-attachFile: "Επισύναψη αρχείων"
-more: "Περισσότερα!"
-noSuchUser: "Το μέλος δεν βρέθηκε"
-announcements: "Ανακοινώσεις"
-imageUrl: "URL εικόνας"
-remove: "Διαγραφή"
-removed: "Η διαγραφή ολοκληρώθηκε επιτυχώς"
-saved: "Αποθηκεύτηκε"
-messaging: "Συνομιλία"
-upload: "Ανεβάστε"
-fromDrive: "Από τον Αποθηκευτικό Χώρο"
-fromUrl: "Από URL"
-uploadFromUrl: "Ανεβάστε από URL"
-explore: "Εξερευνήστε"
-messageRead: "Διαβάστηκε"
-startMessaging: "Ξεκινήστε μία συνομιλία"
-nUsersRead: "διαβάστηκε από {n}"
-start: "Ας αρχίσουμε"
-home: "Κεντρικό"
-activity: "Δραστηριότητα"
-images: "Εικόνες"
-image: "Εικόνες"
-birthday: "Γενέθλια"
-registeredDate: "Έγινε μέλος στις"
-location: "Τοποθεσία"
-theme: "Θέματα"
-light: "Ανοιχτόχρωμο"
-dark: "Σκούρο"
-drive: "Αποθηκευτικός Χώρος"
-fileName: "Όνομα αρχείου"
-selectFile: "Επιλέξτε ένα αρχείο"
-selectFiles: "Επιλέξτε αρχεία"
-selectFolder: "Επιλέξτε φάκελο"
-selectFolders: "Επιλέξτε φακέλους"
-renameFile: "Μετονομασία αρχείου"
-addFile: "Προσθήκη αρχείου"
-emptyDrive: "Ο Αποθηκευτικός Χώρος σας είναι άδειος"
-copyUrl: "Αντιγραφή URL"
-rename: "Αλλαγή ονόματος"
-avatar: "Εικονίδιο"
-banner: "Πανό"
-reload: "Ανανέωση"
-doNothing: "Αγνόηση"
-watch: "Παρακολούθηση"
-unwatch: "Τέλος παρακολούθησης"
-accept: "Αποδοχή"
-reject: "Απόρριψη"
-normal: "Κανονικό"
-instanceName: "Όνομα instance"
-thisYear: "Έτος"
-thisMonth: "Μήνας"
-today: "Σήμερα"
-dayX: "{day}"
-pages: "Σελίδες"
-connectService: "Σύνδεση"
-disconnectService: "Αποσύνδεση"
-registration: "Εγγραφή"
-pinnedPages: "Καρφιτσωμένες Σελίδες"
-pinnedNotes: "Καρφιτσωμένα σημειώματα"
-antennas: "Αντένες"
-manageAntennas: "Διαχείριση αντενών"
-name: "Όνομα"
-antennaSource: "Πηγή αντένας"
-antennaKeywords: "Λέξεις-κλειδιά για παρακολούθηση"
-antennaExcludeKeywords: "Λέξεις-κλειδιά για αποκλεισμό"
-notifyAntenna: "Ειδοποίηση για νέα σημειώματα"
-withFileAntenna: "Μόνο σημειώματα με αρχεία"
-caseSensitive: "Διάκριση Πεζών-Κεφαλαίων"
-popularTags: "Δημοφιλείς ετικέτες"
-userList: "Λίστες"
-about: "Πληροφορίες"
-moderator: "Συντονιστής"
-moderation: "Συντονισμός"
-markAsReadAllNotifications: "Όλες οι ειδοποιήσεις διαβάστηκαν"
-members: "Μέλη"
-transfer: "Μεταφορά"
-title: "Τίτλος"
-text: "Κείμενο"
-enable: "Ενεργοποίηση"
-next: "Επόμενο"
-noteOf: "Σημείωμα από {user}"
-quoteAttached: "Παράθεση"
-signinRequired: "Παρακαλούμε δημιουργήστε λογαριασμό ή συνδεθείτε πριν συνεχίσετε"
-category: "Κατηγορία"
-tags: "Ετικέτες"
-createAccount: "Δημιουργία λογαριασμού"
-local: "Τοπικό"
-remote: "Απομακρυσμένo"
-total: "Σύνολο"
-appearance: "Εμφάνιση"
-accountSettings: "Ρυθμίσεις λογαριασμού"
-sounds: "Ήχοι"
-sound: "Ήχοι"
-listen: "Ακρόαση"
-showInPage: "Εμφάνιση στη σελίδα"
-volume: "Ένταση"
-masterVolume: "Κύρια ένταση"
-details: "Λεπτομέρειες"
-install: "Εγκατάσταση"
-uninstall: "Κατάργηση εγκατάστασης"
-manage: "Διαχείριση"
-smtpHost: "Φιλοξενεί"
-smtpUser: "Όνομα μέλους"
-smtpPass: "Κωδικός πρόσβασης"
-notificationSetting: "Ρυθμίσεις ειδοποιήσεων"
-notificationSettingDesc: "Επιλέξτε τους τύπους ειδοποιήσεων που εμφανίζονται"
-switchUi: "Αλλαγή UI"
-clip: "Κλιπ"
-driveFilesCount: "Αριθμός αρχείων Αποθηκευτικού Χώρου"
-driveUsage: "Χρήση Αποθηκευτικού Χώρου"
-noteFavoritesCount: "Αριθμός αγαπημένων σημειωμάτων"
-clips: "Κλιπ"
-clearCache: "Εκκαθάριση προσωρινής μνήμης"
-emailNotification: "Ειδοποιήσεις μέσω mail"
-inChannelSearch: "Αναζήτηση στο κανάλι"
-info: "Πληροφορίες"
-notRecommended: "Δεν προτείνεται"
-switchAccount: "Αλλαγή λογαριασμού"
-user: "Μέλη"
-administration: "Διαχείριση"
-switch: "Εναλλαγή"
-gallery: "Γκαλερί"
-global: "Παγκόσμιο"
-searchResult: "Αποτελέσματα αναζήτησης"
-learnMore: "Μάθετε περισσότερα"
-controlPanel: "Πίνακας ελέγχου"
-manageAccounts: "Διαχείριση Λογαριασμών"
-searchByGoogle: "Αναζήτηση"
-file: "Αρχεία"
-recommended: "Προτεινόμενα"
-cannotUploadBecauseNoFreeSpace: "Το ανέβασμα απέτυχε λόγω ανεπαρκούς Αποθηκευτικού Χώρου"
-icon: "Εικονίδιο"
-replies: "Απάντηση"
-renotes: "Κοινοποίηση σημειώματος"
+_lang_: WAAWaff awafhw awhfawf wawf waf whaherf
+monthAndDay: WAAWaff awafhw awhfawf wawf waf whaherf
+search: WAAWaff awafhw awhfawf wawf waf whaherf
+notifications: WAAWaff awafhw awhfawf wawf waf whaherf
+username: WAAWaff awafhw awhfawf wawf waf whaherf
+password: WAAWaff awafhw awhfawf wawf waf whaherf
+forgotPassword: WAAWaff awafhw awhfawf wawf waf whaherf
+fetchingAsApObject: WAAWaff awafhw awhfawf wawf waf whaherf
+ok: WAAWaff awafhw awhfawf wawf waf whaherf
+gotIt: WAAWaff awafhw awhfawf wawf waf whaherf
+cancel: WAAWaff awafhw awhfawf wawf waf whaherf
+enterUsername: WAAWaff awafhw awhfawf wawf waf whaherf
+renotedBy: WAAWaff awafhw awhfawf wawf waf whaherf
+noNotes: WAAWaff awafhw awhfawf wawf waf whaherf
+noNotifications: WAAWaff awafhw awhfawf wawf waf whaherf
+settings: WAAWaff awafhw awhfawf wawf waf whaherf
+basicSettings: WAAWaff awafhw awhfawf wawf waf whaherf
+otherSettings: WAAWaff awafhw awhfawf wawf waf whaherf
+openInWindow: WAAWaff awafhw awhfawf wawf waf whaherf
+profile: WAAWaff awafhw awhfawf wawf waf whaherf
+timeline: WAAWaff awafhw awhfawf wawf waf whaherf
+noAccountDescription: WAAWaff awafhw awhfawf wawf waf whaherf
+login: WAAWaff awafhw awhfawf wawf waf whaherf
+loggingIn: WAAWaff awafhw awhfawf wawf waf whaherf
+logout: WAAWaff awafhw awhfawf wawf waf whaherf
+signup: WAAWaff awafhw awhfawf wawf waf whaherf
+uploading: WAAWaff awafhw awhfawf wawf waf whaherf
+save: WAAWaff awafhw awhfawf wawf waf whaherf
+users: WAAWaff awafhw awhfawf wawf waf whaherf
+addUser: WAAWaff awafhw awhfawf wawf waf whaherf
+favorite: WAAWaff awafhw awhfawf wawf waf whaherf
+favorites: WAAWaff awafhw awhfawf wawf waf whaherf
+unfavorite: WAAWaff awafhw awhfawf wawf waf whaherf
+favorited: WAAWaff awafhw awhfawf wawf waf whaherf
+alreadyFavorited: WAAWaff awafhw awhfawf wawf waf whaherf
+cantFavorite: WAAWaff awafhw awhfawf wawf waf whaherf
+pin: WAAWaff awafhw awhfawf wawf waf whaherf
+unpin: WAAWaff awafhw awhfawf wawf waf whaherf
+copyContent: WAAWaff awafhw awhfawf wawf waf whaherf
+copyLink: WAAWaff awafhw awhfawf wawf waf whaherf
+delete: WAAWaff awafhw awhfawf wawf waf whaherf
+deleteAndEdit: WAAWaff awafhw awhfawf wawf waf whaherf
+deleteAndEditConfirm: WAAWaff awafhw awhfawf wawf waf whaherf
+addToList: WAAWaff awafhw awhfawf wawf waf whaherf
+sendMessage: WAAWaff awafhw awhfawf wawf waf whaherf
+copyUsername: WAAWaff awafhw awhfawf wawf waf whaherf
+searchUser: WAAWaff awafhw awhfawf wawf waf whaherf
+reply: WAAWaff awafhw awhfawf wawf waf whaherf
+loadMore: WAAWaff awafhw awhfawf wawf waf whaherf
+showMore: WAAWaff awafhw awhfawf wawf waf whaherf
+showLess: WAAWaff awafhw awhfawf wawf waf whaherf
+youGotNewFollower: WAAWaff awafhw awhfawf wawf waf whaherf
+receiveFollowRequest: WAAWaff awafhw awhfawf wawf waf whaherf
+followRequestAccepted: WAAWaff awafhw awhfawf wawf waf whaherf
+mention: WAAWaff awafhw awhfawf wawf waf whaherf
+mentions: WAAWaff awafhw awhfawf wawf waf whaherf
+directNotes: WAAWaff awafhw awhfawf wawf waf whaherf
+importAndExport: WAAWaff awafhw awhfawf wawf waf whaherf
+import: WAAWaff awafhw awhfawf wawf waf whaherf
+export: WAAWaff awafhw awhfawf wawf waf whaherf
+files: WAAWaff awafhw awhfawf wawf waf whaherf
+download: WAAWaff awafhw awhfawf wawf waf whaherf
+driveFileDeleteConfirm: WAAWaff awafhw awhfawf wawf waf whaherf
+unfollowConfirm: WAAWaff awafhw awhfawf wawf waf whaherf
+exportRequested: WAAWaff awafhw awhfawf wawf waf whaherf
+importRequested: WAAWaff awafhw awhfawf wawf waf whaherf
+lists: WAAWaff awafhw awhfawf wawf waf whaherf
+noLists: WAAWaff awafhw awhfawf wawf waf whaherf
+note: WAAWaff awafhw awhfawf wawf waf whaherf
+notes: WAAWaff awafhw awhfawf wawf waf whaherf
+following: WAAWaff awafhw awhfawf wawf waf whaherf
+followers: WAAWaff awafhw awhfawf wawf waf whaherf
+followsYou: WAAWaff awafhw awhfawf wawf waf whaherf
+createList: WAAWaff awafhw awhfawf wawf waf whaherf
+manageLists: WAAWaff awafhw awhfawf wawf waf whaherf
+error: WAAWaff awafhw awhfawf wawf waf whaherf
+somethingHappened: WAAWaff awafhw awhfawf wawf waf whaherf
+retry: WAAWaff awafhw awhfawf wawf waf whaherf
+pageLoadError: WAAWaff awafhw awhfawf wawf waf whaherf
+pageLoadErrorDescription: WAAWaff awafhw awhfawf wawf waf whaherf
+serverIsDead: WAAWaff awafhw awhfawf wawf waf whaherf
+youShouldUpgradeClient: WAAWaff awafhw awhfawf wawf waf whaherf
+enterListName: WAAWaff awafhw awhfawf wawf waf whaherf
+privacy: WAAWaff awafhw awhfawf wawf waf whaherf
+makeFollowManuallyApprove: WAAWaff awafhw awhfawf wawf waf whaherf
+defaultNoteVisibility: WAAWaff awafhw awhfawf wawf waf whaherf
+follow: WAAWaff awafhw awhfawf wawf waf whaherf
+followRequest: WAAWaff awafhw awhfawf wawf waf whaherf
+followRequests: WAAWaff awafhw awhfawf wawf waf whaherf
+unfollow: WAAWaff awafhw awhfawf wawf waf whaherf
+followRequestPending: WAAWaff awafhw awhfawf wawf waf whaherf
+enterEmoji: WAAWaff awafhw awhfawf wawf waf whaherf
+renote: WAAWaff awafhw awhfawf wawf waf whaherf
+unrenote: WAAWaff awafhw awhfawf wawf waf whaherf
+renoted: WAAWaff awafhw awhfawf wawf waf whaherf
+cantRenote: WAAWaff awafhw awhfawf wawf waf whaherf
+cantReRenote: WAAWaff awafhw awhfawf wawf waf whaherf
+quote: WAAWaff awafhw awhfawf wawf waf whaherf
+pinnedNote: WAAWaff awafhw awhfawf wawf waf whaherf
+pinned: WAAWaff awafhw awhfawf wawf waf whaherf
+you: WAAWaff awafhw awhfawf wawf waf whaherf
+clickToShow: WAAWaff awafhw awhfawf wawf waf whaherf
+add: WAAWaff awafhw awhfawf wawf waf whaherf
+reaction: WAAWaff awafhw awhfawf wawf waf whaherf
+reactions: WAAWaff awafhw awhfawf wawf waf whaherf
+reactionSettingDescription2: WAAWaff awafhw awhfawf wawf waf whaherf
+rememberNoteVisibility: WAAWaff awafhw awhfawf wawf waf whaherf
+attachCancel: WAAWaff awafhw awhfawf wawf waf whaherf
+enterFileName: WAAWaff awafhw awhfawf wawf waf whaherf
+mute: WAAWaff awafhw awhfawf wawf waf whaherf
+unmute: WAAWaff awafhw awhfawf wawf waf whaherf
+block: WAAWaff awafhw awhfawf wawf waf whaherf
+unblock: WAAWaff awafhw awhfawf wawf waf whaherf
+suspend: WAAWaff awafhw awhfawf wawf waf whaherf
+unsuspend: WAAWaff awafhw awhfawf wawf waf whaherf
+blockConfirm: WAAWaff awafhw awhfawf wawf waf whaherf
+unblockConfirm: WAAWaff awafhw awhfawf wawf waf whaherf
+suspendConfirm: WAAWaff awafhw awhfawf wawf waf whaherf
+unsuspendConfirm: WAAWaff awafhw awhfawf wawf waf whaherf
+selectList: WAAWaff awafhw awhfawf wawf waf whaherf
+selectAntenna: WAAWaff awafhw awhfawf wawf waf whaherf
+selectWidget: WAAWaff awafhw awhfawf wawf waf whaherf
+editWidgets: WAAWaff awafhw awhfawf wawf waf whaherf
+editWidgetsExit: WAAWaff awafhw awhfawf wawf waf whaherf
+customEmojis: WAAWaff awafhw awhfawf wawf waf whaherf
+emojiName: WAAWaff awafhw awhfawf wawf waf whaherf
+addEmoji: WAAWaff awafhw awhfawf wawf waf whaherf
+settingGuide: WAAWaff awafhw awhfawf wawf waf whaherf
+flagAsBot: WAAWaff awafhw awhfawf wawf waf whaherf
+flagAsCat: WAAWaff awafhw awhfawf wawf waf whaherf
+flagShowTimelineReplies: WAAWaff awafhw awhfawf wawf waf whaherf
+addAccount: WAAWaff awafhw awhfawf wawf waf whaherf
+general: WAAWaff awafhw awhfawf wawf waf whaherf
+wallpaper: WAAWaff awafhw awhfawf wawf waf whaherf
+setWallpaper: WAAWaff awafhw awhfawf wawf waf whaherf
+removeWallpaper: WAAWaff awafhw awhfawf wawf waf whaherf
+searchWith: WAAWaff awafhw awhfawf wawf waf whaherf
+youHaveNoLists: WAAWaff awafhw awhfawf wawf waf whaherf
+followConfirm: WAAWaff awafhw awhfawf wawf waf whaherf
+host: WAAWaff awafhw awhfawf wawf waf whaherf
+selectUser: WAAWaff awafhw awhfawf wawf waf whaherf
+recipient: WAAWaff awafhw awhfawf wawf waf whaherf
+annotation: WAAWaff awafhw awhfawf wawf waf whaherf
+federation: WAAWaff awafhw awhfawf wawf waf whaherf
+storageUsage: WAAWaff awafhw awhfawf wawf waf whaherf
+version: WAAWaff awafhw awhfawf wawf waf whaherf
+metadata: WAAWaff awafhw awhfawf wawf waf whaherf
+network: WAAWaff awafhw awhfawf wawf waf whaherf
+disk: WAAWaff awafhw awhfawf wawf waf whaherf
+instanceInfo: WAAWaff awafhw awhfawf wawf waf whaherf
+statistics: WAAWaff awafhw awhfawf wawf waf whaherf
+clearQueue: WAAWaff awafhw awhfawf wawf waf whaherf
+clearQueueConfirmTitle: WAAWaff awafhw awhfawf wawf waf whaherf
+clearCachedFiles: WAAWaff awafhw awhfawf wawf waf whaherf
+done: WAAWaff awafhw awhfawf wawf waf whaherf
+attachFile: WAAWaff awafhw awhfawf wawf waf whaherf
+more: WAAWaff awafhw awhfawf wawf waf whaherf
+noSuchUser: WAAWaff awafhw awhfawf wawf waf whaherf
+announcements: WAAWaff awafhw awhfawf wawf waf whaherf
+imageUrl: WAAWaff awafhw awhfawf wawf waf whaherf
+remove: WAAWaff awafhw awhfawf wawf waf whaherf
+removed: WAAWaff awafhw awhfawf wawf waf whaherf
+saved: WAAWaff awafhw awhfawf wawf waf whaherf
+messaging: WAAWaff awafhw awhfawf wawf waf whaherf
+upload: WAAWaff awafhw awhfawf wawf waf whaherf
+fromDrive: WAAWaff awafhw awhfawf wawf waf whaherf
+fromUrl: WAAWaff awafhw awhfawf wawf waf whaherf
+uploadFromUrl: WAAWaff awafhw awhfawf wawf waf whaherf
+explore: WAAWaff awafhw awhfawf wawf waf whaherf
+messageRead: WAAWaff awafhw awhfawf wawf waf whaherf
+startMessaging: WAAWaff awafhw awhfawf wawf waf whaherf
+nUsersRead: WAAWaff awafhw awhfawf wawf waf whaherf
+start: WAAWaff awafhw awhfawf wawf waf whaherf
+home: WAAWaff awafhw awhfawf wawf waf whaherf
+activity: WAAWaff awafhw awhfawf wawf waf whaherf
+images: WAAWaff awafhw awhfawf wawf waf whaherf
+image: WAAWaff awafhw awhfawf wawf waf whaherf
+birthday: WAAWaff awafhw awhfawf wawf waf whaherf
+registeredDate: WAAWaff awafhw awhfawf wawf waf whaherf
+location: WAAWaff awafhw awhfawf wawf waf whaherf
+theme: WAAWaff awafhw awhfawf wawf waf whaherf
+light: WAAWaff awafhw awhfawf wawf waf whaherf
+dark: WAAWaff awafhw awhfawf wawf waf whaherf
+drive: WAAWaff awafhw awhfawf wawf waf whaherf
+fileName: WAAWaff awafhw awhfawf wawf waf whaherf
+selectFile: WAAWaff awafhw awhfawf wawf waf whaherf
+selectFiles: WAAWaff awafhw awhfawf wawf waf whaherf
+selectFolder: WAAWaff awafhw awhfawf wawf waf whaherf
+selectFolders: WAAWaff awafhw awhfawf wawf waf whaherf
+renameFile: WAAWaff awafhw awhfawf wawf waf whaherf
+addFile: WAAWaff awafhw awhfawf wawf waf whaherf
+emptyDrive: WAAWaff awafhw awhfawf wawf waf whaherf
+copyUrl: WAAWaff awafhw awhfawf wawf waf whaherf
+rename: WAAWaff awafhw awhfawf wawf waf whaherf
+avatar: WAAWaff awafhw awhfawf wawf waf whaherf
+banner: WAAWaff awafhw awhfawf wawf waf whaherf
+reload: WAAWaff awafhw awhfawf wawf waf whaherf
+doNothing: WAAWaff awafhw awhfawf wawf waf whaherf
+watch: WAAWaff awafhw awhfawf wawf waf whaherf
+unwatch: WAAWaff awafhw awhfawf wawf waf whaherf
+accept: WAAWaff awafhw awhfawf wawf waf whaherf
+reject: WAAWaff awafhw awhfawf wawf waf whaherf
+normal: WAAWaff awafhw awhfawf wawf waf whaherf
+instanceName: WAAWaff awafhw awhfawf wawf waf whaherf
+thisYear: WAAWaff awafhw awhfawf wawf waf whaherf
+thisMonth: WAAWaff awafhw awhfawf wawf waf whaherf
+today: WAAWaff awafhw awhfawf wawf waf whaherf
+dayX: WAAWaff awafhw awhfawf wawf waf whaherf
+pages: WAAWaff awafhw awhfawf wawf waf whaherf
+connectService: WAAWaff awafhw awhfawf wawf waf whaherf
+disconnectService: WAAWaff awafhw awhfawf wawf waf whaherf
+registration: WAAWaff awafhw awhfawf wawf waf whaherf
+pinnedPages: WAAWaff awafhw awhfawf wawf waf whaherf
+pinnedNotes: WAAWaff awafhw awhfawf wawf waf whaherf
+antennas: WAAWaff awafhw awhfawf wawf waf whaherf
+manageAntennas: WAAWaff awafhw awhfawf wawf waf whaherf
+name: WAAWaff awafhw awhfawf wawf waf whaherf
+antennaSource: WAAWaff awafhw awhfawf wawf waf whaherf
+antennaKeywords: WAAWaff awafhw awhfawf wawf waf whaherf
+antennaExcludeKeywords: WAAWaff awafhw awhfawf wawf waf whaherf
+notifyAntenna: WAAWaff awafhw awhfawf wawf waf whaherf
+withFileAntenna: WAAWaff awafhw awhfawf wawf waf whaherf
+caseSensitive: WAAWaff awafhw awhfawf wawf waf whaherf
+popularTags: WAAWaff awafhw awhfawf wawf waf whaherf
+userList: WAAWaff awafhw awhfawf wawf waf whaherf
+about: WAAWaff awafhw awhfawf wawf waf whaherf
+moderator: WAAWaff awafhw awhfawf wawf waf whaherf
+moderation: WAAWaff awafhw awhfawf wawf waf whaherf
+markAsReadAllNotifications: WAAWaff awafhw awhfawf wawf waf whaherf
+members: WAAWaff awafhw awhfawf wawf waf whaherf
+transfer: WAAWaff awafhw awhfawf wawf waf whaherf
+title: WAAWaff awafhw awhfawf wawf waf whaherf
+text: WAAWaff awafhw awhfawf wawf waf whaherf
+enable: WAAWaff awafhw awhfawf wawf waf whaherf
+next: WAAWaff awafhw awhfawf wawf waf whaherf
+noteOf: WAAWaff awafhw awhfawf wawf waf whaherf
+quoteAttached: WAAWaff awafhw awhfawf wawf waf whaherf
+signinRequired: WAAWaff awafhw awhfawf wawf waf whaherf
+category: WAAWaff awafhw awhfawf wawf waf whaherf
+tags: WAAWaff awafhw awhfawf wawf waf whaherf
+createAccount: WAAWaff awafhw awhfawf wawf waf whaherf
+local: WAAWaff awafhw awhfawf wawf waf whaherf
+remote: WAAWaff awafhw awhfawf wawf waf whaherf
+total: WAAWaff awafhw awhfawf wawf waf whaherf
+appearance: WAAWaff awafhw awhfawf wawf waf whaherf
+accountSettings: WAAWaff awafhw awhfawf wawf waf whaherf
+sounds: WAAWaff awafhw awhfawf wawf waf whaherf
+sound: WAAWaff awafhw awhfawf wawf waf whaherf
+listen: WAAWaff awafhw awhfawf wawf waf whaherf
+showInPage: WAAWaff awafhw awhfawf wawf waf whaherf
+volume: WAAWaff awafhw awhfawf wawf waf whaherf
+masterVolume: WAAWaff awafhw awhfawf wawf waf whaherf
+details: WAAWaff awafhw awhfawf wawf waf whaherf
+install: WAAWaff awafhw awhfawf wawf waf whaherf
+uninstall: WAAWaff awafhw awhfawf wawf waf whaherf
+manage: WAAWaff awafhw awhfawf wawf waf whaherf
+smtpHost: WAAWaff awafhw awhfawf wawf waf whaherf
+smtpUser: WAAWaff awafhw awhfawf wawf waf whaherf
+smtpPass: WAAWaff awafhw awhfawf wawf waf whaherf
+notificationSetting: WAAWaff awafhw awhfawf wawf waf whaherf
+notificationSettingDesc: WAAWaff awafhw awhfawf wawf waf whaherf
+switchUi: WAAWaff awafhw awhfawf wawf waf whaherf
+clip: WAAWaff awafhw awhfawf wawf waf whaherf
+driveFilesCount: WAAWaff awafhw awhfawf wawf waf whaherf
+driveUsage: WAAWaff awafhw awhfawf wawf waf whaherf
+noteFavoritesCount: WAAWaff awafhw awhfawf wawf waf whaherf
+clips: WAAWaff awafhw awhfawf wawf waf whaherf
+clearCache: WAAWaff awafhw awhfawf wawf waf whaherf
+emailNotification: WAAWaff awafhw awhfawf wawf waf whaherf
+inChannelSearch: WAAWaff awafhw awhfawf wawf waf whaherf
+info: WAAWaff awafhw awhfawf wawf waf whaherf
+notRecommended: WAAWaff awafhw awhfawf wawf waf whaherf
+switchAccount: WAAWaff awafhw awhfawf wawf waf whaherf
+user: WAAWaff awafhw awhfawf wawf waf whaherf
+administration: WAAWaff awafhw awhfawf wawf waf whaherf
+switch: WAAWaff awafhw awhfawf wawf waf whaherf
+gallery: WAAWaff awafhw awhfawf wawf waf whaherf
+global: WAAWaff awafhw awhfawf wawf waf whaherf
+searchResult: WAAWaff awafhw awhfawf wawf waf whaherf
+learnMore: WAAWaff awafhw awhfawf wawf waf whaherf
+controlPanel: WAAWaff awafhw awhfawf wawf waf whaherf
+manageAccounts: WAAWaff awafhw awhfawf wawf waf whaherf
+searchByGoogle: WAAWaff awafhw awhfawf wawf waf whaherf
+file: WAAWaff awafhw awhfawf wawf waf whaherf
+recommended: WAAWaff awafhw awhfawf wawf waf whaherf
+cannotUploadBecauseNoFreeSpace: WAAWaff awafhw awhfawf wawf waf whaherf
+icon: WAAWaff awafhw awhfawf wawf waf whaherf
+replies: WAAWaff awafhw awhfawf wawf waf whaherf
+renotes: WAAWaff awafhw awhfawf wawf waf whaherf
 _email:
   _follow:
-    title: "Έχετε ένα νέο ακόλουθο"
+    title: WAAWaff awafhw awhfawf wawf waf whaherf
 _channel:
-  featured: "Δημοφιλή"
+  featured: WAAWaff awafhw awhfawf wawf waf whaherf
 _theme:
   keys:
-    panel: "Πίνακας"
-    mention: "Επισήμανση"
-    renote: "Κοινοποίηση σημειώματος"
+    panel: WAAWaff awafhw awhfawf wawf waf whaherf
+    mention: WAAWaff awafhw awhfawf wawf waf whaherf
+    renote: WAAWaff awafhw awhfawf wawf waf whaherf
 _sfx:
-  note: "Σημειώματα"
-  notification: "Ειδοποιήσεις"
-  antenna: "Αντένες"
-  channel: "Ειδοποιήσεις καναλιών"
+  note: WAAWaff awafhw awhfawf wawf waf whaherf
+  notification: WAAWaff awafhw awhfawf wawf waf whaherf
+  antenna: WAAWaff awafhw awhfawf wawf waf whaherf
+  channel: WAAWaff awafhw awhfawf wawf waf whaherf
 _ago:
-  future: "Μελλοντικό"
-  justNow: "Μόλις τώρα"
-  secondsAgo: "{n} δευτερόλεπτο(α) πριν"
-  minutesAgo: "{n} λεπτό(ά) πριν"
-  hoursAgo: "{n} ώρα(ες) πριν"
-  daysAgo: "{n} μέρα(ες) πριν"
-  weeksAgo: "{n} εβδομάδα(ες) πριν"
-  monthsAgo: "{n} μήνα(ες) πριν"
-  yearsAgo: "{n} έτος(η) πριν"
+  future: WAAWaff awafhw awhfawf wawf waf whaherf
+  justNow: WAAWaff awafhw awhfawf wawf waf whaherf
+  secondsAgo: WAAWaff awafhw awhfawf wawf waf whaherf
+  minutesAgo: WAAWaff awafhw awhfawf wawf waf whaherf
+  hoursAgo: WAAWaff awafhw awhfawf wawf waf whaherf
+  daysAgo: WAAWaff awafhw awhfawf wawf waf whaherf
+  weeksAgo: WAAWaff awafhw awhfawf wawf waf whaherf
+  monthsAgo: WAAWaff awafhw awhfawf wawf waf whaherf
+  yearsAgo: WAAWaff awafhw awhfawf wawf waf whaherf
 _permissions:
-  "write:drive": "Επεξεργαστείτε ή διαγράψτε τα αρχεία και τους φακέλους του Αποθηκευτικού Χώρου σας"
-  "read:favorites": "Δείτε τη λίστα των αγαπημένων σας"
-  "write:favorites": "Επεξεργαστείτε τη λίστα των αγαπημένων σας"
-  "read:messaging": "Δείτε τις συνομιλίες σας"
-  "write:messaging": "Γράψτε ή διαγράψτε μηνύματα συνομιλίας"
-  "read:notifications": "Δείτε τις ειδοποιήσεις σας"
-  "write:notifications": "Διαχειριστείτε τις ειδοποιήσεις σας"
-  "read:pages": "Δείτε τις Σελίδες σας"
-  "write:pages": "Επεξεργαστείτε ή διαγράψτε τις σελίδες σας"
+  WAAWaff awafhw awhfawf wawf waf whaherf
+  WAAWaff awafhw awhfawf wawf waf whaherf
+  WAAWaff awafhw awhfawf wawf waf whaherf
+  WAAWaff awafhw awhfawf wawf waf whaherf
+  WAAWaff awafhw awhfawf wawf waf whaherf
+  WAAWaff awafhw awhfawf wawf waf whaherf
+  WAAWaff awafhw awhfawf wawf waf whaherf
+  WAAWaff awafhw awhfawf wawf waf whaherf
+  WAAWaff awafhw awhfawf wawf waf whaherf
 _antennaSources:
-  all: "Όλα τα σημειώματα"
-  homeTimeline: "Σημειώματα από μέλη που ακολουθείτε"
-  users: "Σημειώματα από συγκεκριμένα μέλη"
-  userList: "Σημειώματα από καθορισμένη λίστα μελών"
+  all: WAAWaff awafhw awhfawf wawf waf whaherf
+  homeTimeline: WAAWaff awafhw awhfawf wawf waf whaherf
+  users: WAAWaff awafhw awhfawf wawf waf whaherf
+  userList: WAAWaff awafhw awhfawf wawf waf whaherf
 _widgets:
-  profile: "Προφίλ"
-  instanceInfo: "Πληροφορίες του instance"
-  notifications: "Ειδοποιήσεις"
-  timeline: "Χρονολόγιο"
-  calendar: "Ημερολόγιο"
-  trends: "Δημοφιλή"
-  clock: "Ρολόι"
-  activity: "Δραστηριότητα"
-  photos: "Φωτογραφίες"
-  digitalClock: "Ψηφιακό ρολόι"
-  federation: "Ομοσπονδία"
-  postForm: "Φόρμα δημοσίευσης"
-  button: "Κουμπί"
-  onlineUsers: "Συνδεδεμένα μέλη"
+  profile: WAAWaff awafhw awhfawf wawf waf whaherf
+  instanceInfo: WAAWaff awafhw awhfawf wawf waf whaherf
+  notifications: WAAWaff awafhw awhfawf wawf waf whaherf
+  timeline: WAAWaff awafhw awhfawf wawf waf whaherf
+  calendar: WAAWaff awafhw awhfawf wawf waf whaherf
+  trends: WAAWaff awafhw awhfawf wawf waf whaherf
+  clock: WAAWaff awafhw awhfawf wawf waf whaherf
+  activity: WAAWaff awafhw awhfawf wawf waf whaherf
+  photos: WAAWaff awafhw awhfawf wawf waf whaherf
+  digitalClock: WAAWaff awafhw awhfawf wawf waf whaherf
+  federation: WAAWaff awafhw awhfawf wawf waf whaherf
+  postForm: WAAWaff awafhw awhfawf wawf waf whaherf
+  button: WAAWaff awafhw awhfawf wawf waf whaherf
+  onlineUsers: WAAWaff awafhw awhfawf wawf waf whaherf
   _userList:
-    chooseList: "Επιλέξτε μία λίστα"
+    chooseList: WAAWaff awafhw awhfawf wawf waf whaherf
 _cw:
-  show: "Δείτε περισσότερα"
+  show: WAAWaff awafhw awhfawf wawf waf whaherf
 _visibility:
-  home: "Κεντρικό"
-  homeDescription: "Δημοσίευση στο κεντρικό χρονολόγιο μόνο"
-  followers: "Ακολουθούν"
+  home: WAAWaff awafhw awhfawf wawf waf whaherf
+  homeDescription: WAAWaff awafhw awhfawf wawf waf whaherf
+  followers: WAAWaff awafhw awhfawf wawf waf whaherf
 _profile:
-  name: "Όνομα"
-  username: "Όνομα μέλους"
+  name: WAAWaff awafhw awhfawf wawf waf whaherf
+  username: WAAWaff awafhw awhfawf wawf waf whaherf
 _exportOrImport:
-  allNotes: "Όλα τα σημειώματα"
-  followingList: "Ακολουθεί"
-  muteList: "Μέλη σε σίγαση"
-  blockingList: "Μπλοκαρισμένα μέλη"
-  userLists: "Λίστες"
+  allNotes: WAAWaff awafhw awhfawf wawf waf whaherf
+  followingList: WAAWaff awafhw awhfawf wawf waf whaherf
+  muteList: WAAWaff awafhw awhfawf wawf waf whaherf
+  blockingList: WAAWaff awafhw awhfawf wawf waf whaherf
+  userLists: WAAWaff awafhw awhfawf wawf waf whaherf
 _charts:
-  federation: "Ομοσπονδία"
+  federation: WAAWaff awafhw awhfawf wawf waf whaherf
 _timelines:
-  home: "Κεντρικό"
-  local: "Τοπικό"
-  social: "Κοινωνικό"
-  global: "Παγκόσμιο"
+  home: WAAWaff awafhw awhfawf wawf waf whaherf
+  local: WAAWaff awafhw awhfawf wawf waf whaherf
+  social: WAAWaff awafhw awhfawf wawf waf whaherf
+  global: WAAWaff awafhw awhfawf wawf waf whaherf
 _pages:
-  viewPage: "Δείτε τις Σελίδες σας"
+  viewPage: WAAWaff awafhw awhfawf wawf waf whaherf
   blocks:
-    image: "Εικόνες"
+    image: WAAWaff awafhw awhfawf wawf waf whaherf
 _notification:
-  youWereFollowed: "σε ακολούθησε"
+  youWereFollowed: WAAWaff awafhw awhfawf wawf waf whaherf
   _types:
-    follow: "Νέοι ακόλουθοι"
-    mention: "Επισήμανση"
-    renote: "Κοινοποίηση σημειώματος"
-    quote: "Παράθεση"
-    reaction: "Αντιδράσεις"
+    follow: WAAWaff awafhw awhfawf wawf waf whaherf
+    mention: WAAWaff awafhw awhfawf wawf waf whaherf
+    renote: WAAWaff awafhw awhfawf wawf waf whaherf
+    quote: WAAWaff awafhw awhfawf wawf waf whaherf
+    reaction: WAAWaff awafhw awhfawf wawf waf whaherf
   _actions:
-    reply: "Απάντηση"
-    renote: "Κοινοποίηση σημειώματος"
+    reply: WAAWaff awafhw awhfawf wawf waf whaherf
+    renote: WAAWaff awafhw awhfawf wawf waf whaherf
 _deck:
-  widgetsIntroduction: "Παρακαλούμε επιλέξτε \"Επεξεργασία μαραφετίων\" στο μενού και προσθέστε μαραφέτι."
+  widgetsIntroduction: WAAWaff awafhw awhfawf wawf waf whaherf
   _columns:
-    widgets: "Μαραφέτια"
-    notifications: "Ειδοποιήσεις"
-    tl: "Χρονολόγιο"
-    antenna: "Αντένες"
-    list: "Λίστα"
-    mentions: "Επισημάνσεις"
+    widgets: WAAWaff awafhw awhfawf wawf waf whaherf
+    notifications: WAAWaff awafhw awhfawf wawf waf whaherf
+    tl: WAAWaff awafhw awhfawf wawf waf whaherf
+    antenna: WAAWaff awafhw awhfawf wawf waf whaherf
+    list: WAAWaff awafhw awhfawf wawf waf whaherf
+    mentions: WAAWaff awafhw awhfawf wawf waf whaherf
 _webhookSettings:
-  name: "Όνομα"
+  name: WAAWaff awafhw awhfawf wawf waf whaherf
 _moderationLogTypes:
-  suspend: "Αποβολή"
+  suspend: WAAWaff awafhw awhfawf wawf waf whaherf

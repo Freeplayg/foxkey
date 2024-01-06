@@ -1,1087 +1,1087 @@
 ---
-_lang_: "O'zbek tili"
-headlineMisskey: "Qaydlar tarmog'i"
-introMisskey: "Xush kelibsiz! Misskey ochiq kodli, markazlashmagan mikroblogging xizmati.\nO'zingizni fikrlaringizni atrofingizdagilar bilan ulashish uchun \"Qaydlar\" yarating. 📡\nUstiga-ustak, \"Reaktsiyalar\" yordamida siz boshqalarning xatlari haqidagi o'zingizni xissiyotlaringizni bildiring. 👍\nQani, yangi dunyoni kashf qilaylik! 🚀"
-poweredByMisskeyDescription: "{name} ochiq manbali <b>Misskey</b>(\"Misskey instance\" deb ataladi) platformasi tomonidan qurilgan servislardan biri. "
-monthAndDay: "{day}/{month}"
-search: "Izlash"
-notifications: "Xabarnomalar"
-username: "Foydalanuvchi nomi"
-password: "Parol"
-forgotPassword: "Parolni unutib qo'ydim"
-fetchingAsApObject: "Fediversedan olib kelinmoqda..."
-ok: "Ho'p"
-gotIt: "Tushunarli!"
-cancel: "Bekor qilish"
-noThankYou: "Hozir emas"
-enterUsername: "Foydalanuvchini nomini kiriting"
-renotedBy: "{user} tomonidan qayta qayd etildi"
-noNotes: "Qaydlar mavjud emas"
-noNotifications: "Xabarlar mavjud emas"
-instance: "Server"
-settings: "Sozlamalar"
-notificationSettings: "Xabarnoma sozlamalari"
-basicSettings: "Asosiy sozlamalar"
-otherSettings: "Qo‘shimcha sozlamalar"
-openInWindow: "Yangi oynada ochish"
-profile: "Profil"
-timeline: "Xronologiya"
-noAccountDescription: "Ushbu foydalanuvchi hali o'zi haqida ma'lumot yozmagan."
-login: "Kirish"
-loggingIn: "Kirilmoqda"
-logout: "Chiqish"
-signup: "Ro'yxatdan o'tish"
-uploading: "Yuklanmoqda..."
-save: "Saqlash"
-users: "Foydalanuvchilar"
-addUser: "Foydalanuvchi qo'shish"
-favorite: "Sevimli"
-favorites: "Sevimlilar"
-unfavorite: "Sevimlidan chiqarish"
-favorited: "sevimli"
-alreadyFavorited: "allaqachon sevimlilar orasida"
-cantFavorite: "sevimlilarga qo'shib bo'lmadi"
-pin: "Profilga qadab qo'yish"
-unpin: "Profildan olib tashlash"
-copyContent: "Tarkibini nusxalash"
-copyLink: "Havolani nusxalash"
-delete: "O'chirib tashlash"
-deleteAndEdit: "O'chirish va tahrirlash"
-deleteAndEditConfirm: "O'chirib, tahrirlamoqchiligingizga ishonchingiz komilmi? Siz bu qaydga tegishli barcha reaktsiyalar va javoblarni yo'qotasiz."
-addToList: "Ro‘yxatga qo‘shish"
-addToAntenna: "Antennaga qo'shish"
-sendMessage: "Xabar yuborish"
-copyRSS: "RSS'ni nusxalash"
-copyUsername: "Foydalanuvchi nomini nusxalash"
-copyUserId: "Foydalanuvchi IDsini nusxalash"
-copyNoteId: "Qayd IDsini ko'chirish"
-copyFileId: "Fayl ID raqamini nusxalash"
-copyFolderId: "Jild ID raqamini nusxalash"
-copyProfileUrl: "Profil manzilini nusxalash"
-searchUser: "Foydalanuvchini izlash"
-reply: "Javob berish"
-loadMore: "Ko‘proq ko‘rish"
-showMore: "Ko‘proq ko‘rish"
-showLess: "Yopish"
-youGotNewFollower: "sizga obuna bo'ldi"
-receiveFollowRequest: "Obuna bo'lishga ruxsat qabul qilindi"
-followRequestAccepted: "Obuna bo'lishga ruxsat berildi"
-mention: "Murojat"
-mentions: "Eslatib o'tish"
-directNotes: "Bevosita qaydlar"
-importAndExport: "Import/eksport"
-import: "Import"
-export: "Eksport"
-files: "Fayllar"
-download: "Yuklab olish"
-driveFileDeleteConfirm: "\"{name}\" o'chirib tashlamoqchimisiz? Ushbu fayldan foydalanadigan har qanday kontent ham oʻchiriladi."
-unfollowConfirm: "{name}ga obunani bekor qilmoqchimisiz?"
-exportRequested: "Eksport so'raldi. Bu ozgina vaqt olishi mumkin. Tugatilgandan so'ng sizning Diskingizga qo'shiladi"
-importRequested: "Import so'raldi. Bu ozgina vaqt olishi mumkin."
-lists: "Ro'yxatlar"
-noLists: "Hech qanday ro'yxatlar mavjud emas"
-note: "Qayd"
-notes: "Qaydlar"
-following: "Obuna bo‘lish"
-followers: "Obunachilar"
-followsYou: "Sizning obunachingiz."
-createList: "Ro'yxat yaratish"
-manageLists: "Ro'yxatlarni boshqarish."
-error: "Xato"
-somethingHappened: "Xatolik yuz berdi"
-retry: "Qayta urinib ko'rish"
-pageLoadError: "Sahifani yuklayotganda xatolik yuz berdi"
-pageLoadErrorDescription: "Buni odatda tarmoq muammolarni yoki browser keshi keltirib chiqaradi. Keshni tozalab, keyinroq urinib ko'ring"
-serverIsDead: "Server javob bermayabdi. Iltimos kuting va keyinroq urinib ko'ring"
-youShouldUpgradeClient: "Iltimos, ushbu sahifani ko'rish uchun sahifani yangilang."
-enterListName: "Ro'yxatga nom kiriting"
-privacy: "Maxfiylik"
-makeFollowManuallyApprove: "Yopiq akkaunt"
-defaultNoteVisibility: "Standart ko'rinish"
-follow: "Obuna bo‘lish"
-followRequest: "Obuna bo'lish uchun ruxsat olish"
-followRequests: "Obuna bo'lmoqchilar"
-unfollow: "obunani bekor qilish"
-followRequestPending: "obuna bo'lishga ruxsat kutilmoqda"
-enterEmoji: "Emojini kiriting"
-renote: "Qayta qayd etish"
-unrenote: "Qayta qayd etishni bekor qilish"
-renoted: "Qayta qayd etildi"
-cantRenote: "Qayta qayd etish mumkin emas"
-cantReRenote: "Repostni qayta joylashtirish mumkin emas."
-quote: "Iqtibos keltirish"
-inChannelRenote: "Faqat kanalga qayta qayd etish"
-inChannelQuote: "Kanaldagi eslatmalar"
-pinnedNote: "Qadalgan qayd"
-pinned: "Profilga qadab qo'yish"
-you: "Siz"
-clickToShow: "Ko'rsatish uchun bosing"
-sensitive: "Sezuvchan"
-add: "Qo'shish"
-reaction: "Reaktsiyalar"
-reactions: "Reaktsiyalar"
-reactionSettingDescription2: "Qayta tartiblash uchun ushlab turib siljiting, oʻchirish uchun bosing, qoʻshish uchun “+” tugmasini bosing."
-rememberNoteVisibility: "Qaydning ko'rinish sozlamarini eslab qolish"
-attachCancel: "Qo'shimchani olib tashlash"
-markAsSensitive: "\"Hamma ko'rishi mumkin emas\" deb belgilash"
-unmarkAsSensitive: "\"Hamma ko'rishi mumkin\" deb belgilash"
-enterFileName: "Fayl nomini kiriting"
-mute: "Ovozni o‘chirish"
-unmute: "Ovozni yoqish"
-renoteMute: "Qayta qaydlarni ovozini o'chirish"
-renoteUnmute: "Qayta qaydlarni ovozini yoqish"
-block: "Bloklash"
-unblock: "Blokdan chiqarish"
-suspend: "To'xtatish"
-unsuspend: "Blokdan chiqarish"
-blockConfirm: "Haqiqatdan ham quyidagi hisobni bloklashni xohlaysizmi? "
-unblockConfirm: "Haqiqatdan ham quyidagi hisobni blokdan chiqarishni xohlaysizmi? "
-suspendConfirm: "Bu hisobni to‘xtatib qo‘ymoqchi ekanligingizga ishonchingiz komilmi?"
-unsuspendConfirm: "Tasdiqlashni to'xtatib turish"
-selectList: "Ro'yxat tanlash"
-editList: "Roʻyxatni tahrirlash"
-selectChannel: "Kanalni tanlang"
-selectAntenna: "Antennani tanlang"
-editAntenna: "Antennani tahrirlang"
-selectWidget: "Vidjet tanlash"
-editWidgets: "Vidjetni tahrirlash"
-editWidgetsExit: "Tugadi"
-customEmojis: "Maxsus emoji"
-emoji: "Emoji"
-emojis: "Emoji"
-emojiName: "Emoji nomi"
-emojiUrl: "Emoji URL'i"
-addEmoji: "Emoji qo'shish"
-settingGuide: "Tavsiya qilingan sozlamalar"
-cacheRemoteFiles: "Tashqi fayllarni keshlash"
-cacheRemoteFilesDescription: "Ushbu sozlama o'chirilgan bo'lsa tashqi fayllar bevosita tashqi serverdan yuklanadi. Buni o'chirish ombor ishlatilishini kamaytiradi, lekin traffikni ko'paytiradi, chunki eskizlar generatsiya qilinmaydi."
-youCanCleanRemoteFilesCache: "Fayl menejeridagi 🗑️ tugmasi yordamida barcha keshlarni oʻchirib tashlashingiz mumkin."
-cacheRemoteSensitiveFiles: "Tashqi fayllarni keshlash"
-cacheRemoteSensitiveFilesDescription: "Bu sozlama oʻchiq boʻlsa, \"barcha ko'rishi mumkin bo'lmagan\" fayllar keshlashsiz toʻgʻridan-toʻgʻri masofaviy serverdan yuklanadi."
-flagAsBot: "Ushbu akkauntni bot sifatida belgilash"
-flagAsBotDescription: "Agar bu akkaunt bot tomonidan boshqaralayotgan bo'lsa, bu sozlamani yoqing. Sozlama yoqilganda, boshqa foydalanuvchilar uchun belgi sifatida ishlaydi, va Misskey ichki tizimlari bu akkauntni bot ekanini biladi."
-flagAsCat: "Bu akkauntni mushuk sifatida belgilash"
-flagAsCatDescription: "Ushbu akkauntni mushuk sifatida belgilash uchun ushbu sozlamani yoqing."
-flagShowTimelineReplies: "Javoblarni xronogoliya bo'yicha ko'rsatish"
-flagShowTimelineRepliesDescription: "Bu parametr yoqilganda, lentada foydalanuvchi xabarlariga javob berilgan xabarlar ham ko'rinadi"
-autoAcceptFollowed: "Obunachilarni avtomatik ravishda qabul qilish"
-addAccount: "Akkaunt qo'shish"
-reloadAccountsList: "Hisoblar ro'yxatini yangilash"
-loginFailed: "Tizimga kirishda xatolik yuz berdi"
-showOnRemote: "Masofaviy boshqaruvni ko'rish"
-general: "Asosiy"
-wallpaper: "Fon rasmi"
-setWallpaper: "Fon rasmini o'rnatish"
-removeWallpaper: "Fon rasmini olib tashlash"
-searchWith: "Izlash: {q}"
-youHaveNoLists: "Sizda hech qanday ro'yxatlar mavjud emas"
-followConfirm: "{name} ga obuna bo'lmoqchimisiz?"
-proxyAccount: "Proksi hisob"
-proxyAccountDescription: "Proksi-hisob qaydnomasi - bu ma'lum shartlar ostida foydalanuvchi uchun masofaviy kuzatuvchi sifatida ishlaydigan hisob. Misol uchun, foydalanuvchi uzoq foydalanuvchini roʻyxatga qoʻyganda, roʻyxatdagi foydalanuvchini hech kim kuzatib turmasa, faoliyat serverga yetkazilmaydi, shuning uchun biz proksi hisobi ularning oʻrniga ularni kuzatishini xohlaymiz."
-host: "Host"
-selectUser: "Foydalanuvchini tanlang"
-recipient: "Qabul qiluvchi"
-annotation: "Izohlar"
-federation: "Federatsiya"
-instances: "Serverlar"
-registeredAt: "Ro'yhatdan o'tgan"
-latestRequestReceivedAt: "Oxirgi qabul qilingan so'rov"
-latestStatus: "So'nggi holat"
-storageUsage: "Ishlatilgan xotira"
-charts: "Diagrammalar"
-perHour: "Soatbay"
-perDay: "Kunbay"
-stopActivityDelivery: "Faollikni jo'natishi to'xtatish"
-blockThisInstance: "Ko;rsatilgan serverni bloklash"
-operations: "Amallar"
-software: "Dastur"
-version: "Versiya"
-metadata: "Meta ma'lumot"
-withNFiles: "{n} ta fayl(lar)"
-monitor: "Kuzatish"
-jobQueue: "Vazifalar navbati"
-cpuAndMemory: "CPU va Xotira"
-network: "Tarmoq"
-disk: "Disk"
-instanceInfo: "Instans haqida ma'lumot"
-statistics: "Statistika"
-clearQueue: "Navbatni tozalash"
-clearQueueConfirmTitle: "Navbatni tozalamoqchimisiz?"
-clearQueueConfirmText: "Yetkazib berilmagan xabarlar yetkazilmaydi. Odatda buni qilish shart emas."
-clearCachedFiles: "Keshni tozalash"
-clearCachedFilesConfirm: "Barcha keshlangan masofaviy fayllar oʻchirilsinmi?"
-blockedInstances: "Bloklangan serverlar"
-blockedInstancesDescription: "Bloklanmoqchi bo'lgan serverlaringiz hostlarini yangi qatorlar bilan ajrating. Bloklangan server bu server bilan o‘zaro aloqada bo‘lmaydi. Subdomenlar ham bloklangan."
-muteAndBlock: "Ovozsiz va Bloklangan"
-mutedUsers: "Ovozsiz foydalanuvchilar"
-blockedUsers: "Bloklangan foydalanuvchilar"
-noUsers: "Foydalanuvchilar yo‘q"
-editProfile: "Profilni o'zgartirish"
-noteDeleteConfirm: "Haqiqatan ham bu qaydni oʻchirib tashlamoqchimisiz?"
-pinLimitExceeded: "Siz boshqa qaydlarni mahkamlay olmaysiz"
-intro: "Misskeyni o'rnatish tugallandi! Iltimos, administrator foydalanuvchi yarating."
-done: "Bajarildi"
-processing: "Amaliyotda"
-preview: "Ko'rish"
-default: "Odatiy"
-defaultValueIs: "Sukut bo'yicha: {value}"
-noCustomEmojis: "Emojilar mavjud emas"
-noJobs: "Vazifalar yo'q"
-federating: "Ittifoqdosh"
-blocked: "Bloklangan"
-suspended: "To'xtatilgan"
-all: "Barcha"
-subscribing: "Obuna bo'lish"
-publishing: "Yuborilmoqda"
-notResponding: "Javob bermayapti"
-instanceFollowing: "server obuna bo'ladi"
-instanceFollowers: "server obunachisi"
-instanceUsers: "server foydalanuvchisi"
-changePassword: "Parolni o‘zgartirish"
-security: "Xavfsizlik"
-retypedNotMatch: "Maydonlar mos kelmayapti"
-currentPassword: "Joriy parol"
-newPassword: "Yangi parol"
-newPasswordRetype: "Yangi parolni boshqatdan tering"
-attachFile: "Fayl biriktirish"
-more: "Ko'proq!"
-featured: "ta'kidlash"
-usernameOrUserId: "Foydalanuvchi nomi yoki identifikatori"
-noSuchUser: "Foydalanuvchi topilmadi"
-lookup: "So'rov"
-announcements: "Bildirishnomalar"
-imageUrl: "Rasm URL"
-remove: "O'chirib tashlash"
-removed: "Muvaffaqiyatli o'chirildi"
-removeAreYouSure: "“{x}”ni olib tashlamoqchi ekanligingizga ishonchingiz komilmi?"
-deleteAreYouSure: "“{x}”ni chindan ham yo'q qilmoqchimisiz?"
-resetAreYouSure: "Haqiqatan ham qayta tiklansinmi?"
-saved: "Saqlandi"
-messaging: "Suhbat"
-upload: "Yuklash"
-keepOriginalUploading: "Asl rasmni saqlang"
-keepOriginalUploadingDescription: "Rasmlarni yuklashda asl nusxasini saqlaydi. Agar o'chirilgan bo'lsa, brauzer yuklangandan keyin nashr qilish uchun rasm yaratadi."
-fromDrive: "Drive orqali"
-fromUrl: "URL dan"
-uploadFromUrl: "URL orqali yuklash"
-uploadFromUrlDescription: "Yuklamoqchi bo'lgan faylingizga havola"
-uploadFromUrlRequested: "yuklab olish so'ralgan"
-uploadFromUrlMayTakeTime: "Yuklash tugallanishi uchun biroz vaqt ketishi mumkin."
-explore: "Ko'rib chiqish"
-messageRead: "O‘qildi"
-noMoreHistory: "Buning ortida hech qanday hikoya yo'q"
-startMessaging: "Yangi suhbatni boshlash"
-nUsersRead: "{n} tomonidan o'qildi"
-agreeTo: "Men {0} ga roziman"
-agree: "Rozi bo'lish"
-agreeBelow: "Men quyidagilarga roziman"
-basicNotesBeforeCreateAccount: "Muhim qaydlar"
-termsOfService: "Foydalanish shartlari"
-start: "Boshlash"
-home: "Bosh sahifa"
-remoteUserCaution: "Bu foydalanuvchi uzoqda bo'lganligi sababli, ko'rsatilgan ma'lumotlar to'liq bo'lmasligi mumkin."
-activity: "Faollik"
-images: "Rasmlar"
-image: "Rasm"
-birthday: "Tug'ilgan kun"
-yearsOld: "{age} yashar"
-registeredDate: "Ro'yxatdan o'tgan sanasi"
-location: "Manzil"
-theme: "Rang sxemasi"
-themeForLightMode: "Yorug' rejim uchun rang sxemasi"
-themeForDarkMode: "Qorong'i rejim uchun rang sxemasi"
-light: "Yorug'"
-dark: "Qorongʻi"
-lightThemes: "Yorug‘ rang sxemasi"
-darkThemes: "Qorong'i rang sxemasi"
-syncDeviceDarkMode: "Qurilmangizning qorong‘i rejimi bilan sinxronlashtiring"
-drive: "Disk"
-fileName: "Fayl nomi"
-selectFile: "Faylni tanlang"
-selectFiles: "Fayllarni tanlang"
-selectFolder: "Jildni tanlang"
-selectFolders: "Jildlarni tanlang"
-renameFile: "Faylni nomini tahrirlash"
-folderName: "Jild nomi"
-createFolder: "Papka qo'shish"
-renameFolder: "Papka nomini o‘zgartirish"
-deleteFolder: "Papkani o‘chirish"
-addFile: "Fayl qo‘shish"
-emptyDrive: "Diskingiz bo'sh"
-emptyFolder: "Ushbu papka bo'sh"
-unableToDelete: "O'chirilmadi"
-inputNewFileName: "Yangi fayl nomini kiriting"
-inputNewDescription: "Iltimos, yangi sarlavha kiriting."
-inputNewFolderName: "Yangi papka nomini kiriting"
-circularReferenceFolder: "Belgilangan papka siz ko'chirmoqchi bo'lgan jildning pastki jildidir."
-hasChildFilesOrFolders: "Bu papka boʻsh emas va uni oʻchirib boʻlmaydi."
-copyUrl: "Bog'lamadan nusxa olish"
-rename: "Qayta nomlash"
-avatar: "Avatar"
-banner: "Banner"
-displayOfSensitiveMedia: "Nozik kontentni ko'rish"
-whenServerDisconnected: "server bilan aloqa uzilganda"
-disconnectedFromServer: "Server bilan ulanish uzulib qoldi"
-reload: "Yangilash"
-doNothing: "E'tiborsiz qoldirish"
-reloadConfirm: "Timeline'ni yangilashni xohlaysizmi?"
-watch: "Kuzatmoq"
-unwatch: "Kuzatishni to'xtatish"
-accept: "Ruxsat"
-reject: "Rad etish"
-normal: "Yaxshi"
-instanceName: "Server nomi"
-instanceDescription: "Server tavsifi"
-maintainerName: "Qo'llab-quvvatlovchi"
-maintainerEmail: "Administratorning elektron pochtasi"
-tosUrl: "Foydalanish shartlariga havola"
-thisYear: "Joriy yil"
-thisMonth: "Shu oy"
-today: "Bugun"
-dayX: "{day}"
-monthX: "{month}"
-yearX: "{year}"
-pages: "Sahifalar"
-integration: "Integratsiya"
-connectService: "Ulash"
-disconnectService: "Uzish"
-enableLocalTimeline: "Mahalliy vaqt mintaqasini yoqing"
-enableGlobalTimeline: "Global vaqt mintaqasini yoqing"
-disablingTimelinesInfo: "Administratorlar va Moderatorlar har doim barcha vaqt jadvallariga kirish huquqiga ega bo'ladilar, hatto ular yoqilmagan bo'lsa ham."
-registration: "Ro'yxatdan o'tish"
-enableRegistration: "Ro'yxatdan o'tishni yoqing"
-invite: "Taklif qilish"
-driveCapacityPerLocalAccount: "Har bir mahalliy foydalanuvchi uchun disk maydoni"
-driveCapacityPerRemoteAccount: "Har bir masofaviy foydalanuvchi uchun disk maydoni"
-inMb: "Megabaytlarda"
-bannerUrl: "Banner URLi"
-backgroundImageUrl: "Fon rasmi URL manzili"
-basicInfo: "Asosiy ma'lumot"
-pinnedUsers: "Qadalgan foydalanuvchilar"
-pinnedUsersDescription: "Har bir qatorga bitta foydalanuvchi nomini kiriting. Bu yerda sanab oʻtilgan foydalanuvchilar “Oʻrganish” yorligʻiga bogʻlanadi."
-pinnedPages: "Qadalgan Sahifalar"
-pinnedClipId: "Qadalgan xabar IDsi"
-pinnedNotes: "Qadalgan qayd"
-hcaptcha: "hCaptcha"
-enableHcaptcha: "hCaptchani yoqish"
-hcaptchaSiteKey: "Sayt kaliti"
-hcaptchaSecretKey: "Mahfiy kalit"
-recaptcha: "reCAPTCHA"
-enableRecaptcha: "reCAPTCHA ni yoqish"
-recaptchaSiteKey: "Sayt kaliti"
-recaptchaSecretKey: "Maxfiy kalit"
-turnstile: "Turniket"
-enableTurnstile: "Turniketni yoqish"
-turnstileSiteKey: "Sayt kaliti"
-turnstileSecretKey: "Maxfiy kalit"
-avoidMultiCaptchaConfirm: "\nBir nechta Captcha tizimlaridan foydalanish ular o'rtasida noqulaylik olib kelishi mumkin. Hozirda faol bo'lgan boshqa Captcha tizimlarini o'chirib qo'ymoqchimisiz? Agar siz ularning faol bo'lishini istasangiz, bekor qilish tugmasini bosing."
-antennas: "Antennalar"
-manageAntennas: "Antennalarni boshqarish"
-name: "Ism"
-antennaSource: "Antenna manbai"
-antennaKeywords: "Kalit so'zni qabul qilish"
-antennaExcludeKeywords: "Istisno qilingan kalit so'zlar"
-antennaKeywordsDescription: "VA sharti uchun bo'shliqlar bilan yoki YOKI sharti uchun qator uzilishlari bilan ajrating."
-notifyAntenna: "Yangi qaydlar haqida menga xabar bering"
-withFileAntenna: "Faqatgina fayli bor qaydlar"
-enableServiceworker: "Bildirish nomalarni olish"
-antennaUsersDescription: "Har bir foydalunvchi nomini alohida qatorga yozing"
-caseSensitive: "Katta-kichik harfni farqlash"
-withReplies: "Javob yo'llash"
-connectedTo: "Quyidagi akkountlarga ulangan"
-notesAndReplies: "Qaydlar va javoblar"
-withFiles: "Fayllar"
-silence: "Jim qilish"
-silenceConfirm: "Rostdan ham ushbu foydalanuvchini jim qilmoqchimisiz?"
-unsilence: "Jim qilishni bekor qilish"
-unsilenceConfirm: "Rostdan ham ushbu foydalanuvchini ovozsiz \nqilmoqchimisiz?"
-popularUsers: "Mashhur foydalanuvchilar."
-recentlyUpdatedUsers: "Yaqinda ro'yxatdan o'tgan foydalanuvchilar"
-recentlyRegisteredUsers: "Yaqinda ro'yxatdan o'tgan foydalanuvchilar"
-recentlyDiscoveredUsers: "Yangi foydalanuvchilar"
-exploreUsersCount: "{count} ta foydalanuvchi bor"
-exploreFediverse: "Fediversni ko'rib chiqing"
-popularTags: "Ommabop teglar"
-userList: "Ro'yxatlar"
-about: "Haqida"
-aboutMisskey: "Misskey haqida"
-administrator: "Administrator"
-token: "Tasdiqlash"
-2fa: "Ikki faktorli autentifikatsiya"
-totp: "Autentifikatsiya ilovasi"
-totpDescription: "Bir martalik parollarni kiritish uchun autentifikatsiya ilovasidan foydalaning"
-moderator: "Moderator"
-moderation: "Moderatsiya"
-nUsersMentioned: "{n} tomonidan chop etilgan"
-securityKeyAndPasskey: "Xavfsizlik kaliti va maxfiy so'z"
-securityKey: "Xavfsizlik kaliti"
-lastUsed: "Oxirgi marta foydalanilgan"
-lastUsedAt: "Oxirgi marta {t} da foydalanilgan"
-unregister: "ro'yxatdan chiqarish"
-passwordLessLogin: "Parolsiz kirshni sozlash"
-passwordLessLoginDescription: "Parolsiz kirish"
-resetPassword: "Parolni tiklash"
-newPasswordIs: "Yangi parolingiz {password}"
-reduceUiAnimation: "Interfeysdagi animatsiyani kamaytirish"
-share: "Yuborish"
-notFound: "Topilmadi"
-notFoundDescription: "Ushbu sahifa topilmadi"
-uploadFolder: "Jildni yuklash"
-markAsReadAllNotifications: "Bildirishnomalarni o'qilgan deb belgilash"
-markAsReadAllUnreadNotes: "Barch xabarlarni oq'ilgan deb belgilash"
-markAsReadAllTalkMessages: "Barcha suhbatlarni o'qilgan deb belgilang"
-help: "Yordam"
-inputMessageHere: "Xabar kiriting"
-close: "Yopish"
-invites: "Taklif qilish"
-members: "A'zolar"
-transfer: "topshiriq"
-title: "Sarlavha"
-text: "Matn"
-enable: "Yoqish"
-next: "Keyingisi"
-retype: "Qayta kiriting"
-noteOf: "{user} tomonidan  joylandi\n"
-quoteAttached: "Iqtibos"
-quoteQuestion: "Iqtibos sifatida qo'shilsinmi?"
-noMessagesYet: "Bu yerda xabarlar yo'q"
-newMessageExists: "Yangi xabarlar bor"
-onlyOneFileCanBeAttached: "Faqat bitta faylni biriktirish mumkin"
-signinRequired: "Davom etishdan oldin ro'yhatdan o'tishingiz yoki tizimga kirishingiz kerak"
-invitations: "Taklif qilish"
-invitationCode: "taklif qilish kodi"
-checking: "Tekshirilmoqda"
-available: "Mavjud"
-unavailable: "Mavjud emas"
-usernameInvalidFormat: "Siz a~z, A~Z, 0~9, _ dan foydalanishingiz mumkin"
-tooShort: "Juda qisqa"
-tooLong: "juda uzun"
-weakPassword: "Zaif parol"
-normalPassword: "Oddiy parol"
-strongPassword: "Kuchli parol"
-passwordMatched: "Mos keldi"
-passwordNotMatched: "mos kelmadi"
-signinWith: "{x} bilan tizimga kirish"
-signinFailed: "Tizimga kirishda xatolik yuz berdi. Iltimos, foydalanuvchi nomingiz va parolingizni tekshiring."
-or: "yoki"
-language: "til"
-uiLanguage: "Interfeys tili"
-aboutX: "{x} haqida"
-emojiStyle: "Emoji ko'rinishi"
-native: "Mahalliy"
-disableDrawer: "Slayd menyusidan foydalanmang"
-showNoteActionsOnlyHover: "Eslatma amallarini faqat sichqonchani olib borganda ko‘rsatish"
-noHistory: "Tarix yo'q"
-signinHistory: "kirish tarixi"
-enableAdvancedMfm: "MFMni faollashtirish"
-doing: "Bajarilmoqda..."
-category: "kategoriya"
-tags: "teg"
-docSource: "Ushbu hujjatning manbasi"
-createAccount: "Akkaunt yaratish"
-existingAccount: "mavjud akkaunt"
-regenerate: "regeneratsiya"
-fontSize: "shrift hajmi"
-limitTo: "{x} gacha"
-noFollowRequests: "obuna uchun so'rov yo'q"
-openImageInNewTab: "Rasmni boshqa oynada ochish"
-dashboard: "Boshqaruv paneli"
-local: "Mahalliy"
-remote: "masofaviy"
-total: "Jami"
-weekOverWeekChanges: "Oxirgi haftadagi o'zgarishlar"
-dayOverDayChanges: "Kecha bo'lgan o'zgarishlar"
-appearance: "Tasgqi ko'rinish"
-clientSettings: "Klient sozlamalari"
-accountSettings: "Profil sozlamalari"
-promotion: "rag'batlantirish"
-promote: "targ'ib qilish"
-numberOfDays: "kunlar soni"
-hideThisNote: "bu eslatmani yashiring"
-showFeaturedNotesInTimeline: "Tanlangan qaydlarni Timelineda ko'rsatish"
-objectStorage: "ob'ektni saqlash"
-useObjectStorage: "Ob'ektni saqlashdan foydalaning"
-objectStorageBaseUrl: "Asosiy URL"
-objectStorageBaseUrlDesc: "Malumot va foydalanish uchun URL. Agar siz CDN yoki proksi-serverdan foydalanayotgan bo'lsangiz, URL manzili, S3: 'https://<bucket>.s3.amazonaws.com', GCS va boshqalar: 'https://storage.googleapis.com/<bucket>'."
-objectStorageBucket: "Bucket"
-objectStorageBucketDesc: "Iltimos, foydalaniladigan xizmatning bucket nomini belgilang."
-objectStoragePrefix: "Prefix"
-objectStorageEndpoint: "Endpoint"
-objectStorageRegion: "Mintaqa"
-objectStorageRegionDesc: "'xx-east-1' kabi mintaqani belgilang. Agar xizmatingizda mintaqa tushunchasi bo'lmasa, `us-east-1` dan foydalaning. AWS konfiguratsiya fayllari yoki muhit oʻzgaruvchilariga havola qilishda boʻsh qoldiring."
-objectStorageUseSSL: "SSL dan foydalaning"
-objectStorageUseSSLDesc: "API ulanishlari uchun https dan foydalanmasangiz, belgini olib tashlang"
-objectStorageUseProxy: "Proksi-serverdan foydalaning"
-objectStorageUseProxyDesc: "Proksi-serverdan foydalanishni xohlamasangiz, uni o'chiring"
-objectStorageSetPublicRead: "Yuklashda \"public-read\" ni o'rnating"
-serverLogs: "Server protokoli"
-deleteAll: "Hammasini o'chirib tashlash"
-showFixedPostForm: "Taqdim etish shaklini vaqt jadvalining yuqori qismida ko'rsating"
-newNoteRecived: "Yangi qaydlar mavjud emas"
-sounds: "Tovushlar"
-sound: "ovoz"
-listen: "Eshitish"
-none: "Hechnima"
-showInPage: "Sahifada ko'rsatish"
-popout: "Oching"
-volume: "Ovoz balandligi"
-details: "Batafsil"
-chooseEmoji: "Emojini tanlang"
-unableToProcess: "Opertsiya bajarilmadi"
-recentUsed: "Oxirgi ishlatilganlar"
-install: "O‘rnatish"
-uninstall: "O‘chirib tashlash"
-installedApps: "O'rnatilgan ilovalar"
-nothing: "Hech narsa yo'q"
-installedDate: "O'rnatish sanasi"
-lastUsedDate: "Oxirgi marta ishlatilgan sana"
-state: "Holat"
-sort: "saralamoq"
-ascendingOrder: "O'sish bo'yicha"
-descendingOrder: "Kamayish bo'yicha"
-scratchpad: "Qoralama"
-output: "Chiqish"
-script: "Skript"
-disablePagesScript: "AiScriptni sahifalardan o'chirish"
-updateRemoteUser: "Masofaviy foydalanuvchi ma'lumotlarini yangilash"
-deleteAllFiles: "barcha fayllarni o'chirish"
-deleteAllFilesConfirm: "Barcha fayllar oʻchirilsinmi?"
-removeAllFollowing: "Barcha obunalarni o'chirish"
-userSuspended: "Bu foydalanuvchi muzlatilgan."
-userSilenced: "Ushbu foydalanuvchi jim qilingan"
-yourAccountSuspendedTitle: "akkaunt muzlatilgan"
-yourAccountSuspendedDescription: "Ushbu akkaunt serverning xizmat ko'rsatish shartlarini buzish kabi sabablarga ko'ra to'xtatilgan. Tafsilotlar uchun administratoringizga murojaat qiling. Iltimos, yangi akkaunt yaratmang."
-tokenRevoked: "token yaroqsiz"
-tokenRevokedDescription: "Kirish tokeningizni muddati tugagan. Iltimos, qaytadan kiring."
-accountDeleted: "akkaunt o'chirildi"
-accountDeletedDescription: "Bu akkaunt oʻchirildi."
-menu: "Menyu"
-divider: "Ajratrmoq"
-addItem: "Element qo'shish"
-rearrange: "Qayta saralash"
-inboxUrl: "Qabul qilingan xabarlar URL manzili"
-serviceworkerInfo: "bildirishnomalar uchun yoqilgan bo'lishi kerak."
-deletedNote: "Oʻchirilgan post"
-visibility: "Ko'rinishi"
-poll: "So'ro'vnoma"
-useCw: "Kontentni yashirish"
-enablePlayer: "Video pleyerni ochish"
-disablePlayer: "Video pleyerni yopish"
-expandTweet: "Xabarni kengaytirish"
-themeEditor: "Rang sxemasi muharriri"
-description: "tavsif"
-describeFile: "sarlavha qo'shing"
-enterFileDescription: "sarlavha kiriting"
-author: "muallif"
-leaveConfirm: "Sizda saqlanmagan oʻzgarishlar bor. Bekor qilinsinmi?"
-manage: "Administratsiya"
-plugins: "Kengaytmalar, plaginlar"
-preferencesBackups: "Sozlamalarni zahiralash"
-useBlurEffectForModal: "Modal uchun xiralashtirish effektidan foydalaning"
-useFullReactionPicker: "Katta oynada reaksiya tanlash"
-width: "kengligi"
-height: "balandligi"
-large: "Katta"
-medium: "O'rta"
-small: "kichik"
-generateAccessToken: "Kirish tokenini yaratish"
-permission: "Ruxsatlar"
-enableAll: "Yoqish"
-disableAll: "hammasini o'chirib qo'ying"
-tokenRequested: "Hisobga kirish"
-pluginTokenRequestedDescription: "Bu plagin shu yerda belgilanganlarga qodir bo'ladi"
-notificationType: "Bildirishnoma turi"
-edit: "Tahrirlash"
-emailServer: "Email server"
-email: "Email"
-emailAddress: "E-pochtangiz:"
-smtpConfig: "SMTP server sozlamalari"
-smtpHost: "Host"
-smtpPort: "Port"
-smtpUser: "Foydalanuvchi nomi"
-smtpPass: "Parol"
-testEmail: "Email jo'natmani testlash"
-userSaysSomething: "{name} nimadir dedi"
-makeActive: "Faol"
-display: "Displey"
-copy: "Nusxa olish"
-metrics: "Metrikalar"
-overview: "Umumiy ma'lumot"
-logs: "Jurnallar"
-delayed: "Kechiktirildi"
-database: "Ma'lumotlar bazasi"
-channel: "Kanallar"
-create: "Yaratish"
-notificationSetting: "Bildirishnoma sozlamalari"
-notificationSettingDesc: "Ko'rsatish uchun bildirishnoma turlarini tanlang."
-useGlobalSetting: "Global sozlamalardan foydalanish"
-other: "Qo‘shimcha"
-regenerateLoginToken: "Kirish tokenini qayta yaratish"
-setMultipleBySeparatingWithSpace: "Bo'sh joy qoldirib, bir necha ma'lumot kiritish mumkin"
-fileIdOrUrl: "Fayl ID'si yoki URL havolasi"
-behavior: "Hatti-harakatlar"
-sample: "Namuna"
-abuseReports: "Shikoyatlar"
-reportAbuse: "Shikoyat qilish"
-reportAbuseOf: "{name} ustidan shikoyat qilish"
-abuseReported: "Shikoyatingiz yetkazildi. Ma'lumot uchun rahmat."
-reporter: "Shikoyat qiluvchi"
-reporteeOrigin: "Xabarning kelib chiqishi"
-reporterOrigin: "Xabarchining joylashuvi"
-forwardReport: "Xabarni masofadagi serverga yuborish"
-forwardReportIsAnonymous: "Sizning yuborayotgan xabaringiz o'z akkountingiz emas balki anonim tarzda qoladi"
-send: "Yuborish"
-abuseMarkAsResolved: "Yuborilgan xabarni hal qilingan deb belgilash"
-openInNewTab: "Yangi tab da ochish"
-openInSideView: "Yon panelda ochish"
-defaultNavigationBehaviour: "Standart navigatsiya harakati"
-editTheseSettingsMayBreakAccount: "Bu sozlamalarni o'zgartirish hisobingizga zarar yetkazishi mumkin."
-waitingFor: "{x}ni kutayapman"
-random: "Tasodifiy"
-system: "Tizim"
-switchUi: "Interfeysni almashtirish"
-desktop: "Brauzer rejimi"
-clip: "Klip"
-createNew: "Yangi yaratish"
-optional: "Ixtiyoriy"
-createNewClip: "Yangi klip yaratish"
-unclip: "qirqish\n"
-confirmToUnclipAlreadyClippedNote: "Ushbu xat allaqachon \"{name}\" klipga tegishli. Uni ushbu klipdan olib tashlashni xohlaysizmi?"
-public: "Ommaviy"
-i18nInfo: "Misskey bir qancha volontyorlar yordamida bir qancha tillarga tarjima qilingan. Ushbu {link} orqali ularga yordam berishingiz mumkin."
-manageAccessTokens: "Kirish tokenlarini boshqarish"
-accountInfo: "Akkount haqida ma'lumot"
-notesCount: "Xatlar soni"
-repliesCount: "Yuborilgan javoblar soni"
-renotesCount: "Qayta yuborilgan xatlar soni"
-repliedCount: "Qabul qilingan javoblar soni"
-renotedCount: "Qayta yuborilgan xatlar soni"
-followingCount: "Obuna bo'lingan akkountlar soni"
-followersCount: "Obunachilar soni"
-sentReactionsCount: "Yuborilgan reaksiyalar soni"
-receivedReactionsCount: "Qabul qilingan reaksiyalar soni"
-pollVotesCount: "Berilgan ovozlar soni"
-pollVotedCount: "Qabul qilingan ovozlar soni"
-yes: "Ha"
-no: "Yo'q"
-driveFilesCount: "Diskdagi fayllar soni"
-driveUsage: "Ishlatilgan disk joyi"
-noCrawleDescription: "Qidiruv tizimlari sizning profilingiz, sahifalaringiz, xatlaringiz va hokazolarni belgilamasligi uchun so'rov yuborish"
-lockedAccountInfo: "Xatlaringizni faqatgina obunachilaringizga ko'rsatishni xohlasangiz unda \"Faqat Obunachilar uchun\" xususiyatini yoqishingiz lozim. Bo'lmasa sizning yozgan xatlaringiz hammaga ko'rinadi."
-alwaysMarkSensitive: "Avvaldan ta'sirchan kontent deb belgilash"
-loadRawImages: "Thumbnaillarsiz Original rasmni yuklash"
-disableShowingAnimatedImages: "Animatsiyali rasmlarni ko'rsatmaslik"
-verificationEmailSent: "Emailingizga tasdiqlash xabari yuborildi. Iltimos linkda ko'rsatilgan amallarga rioya qiling"
-notSet: "Sozlanmagan"
-emailVerified: "Elektron pochta manzili tasdiqlandi"
-pageLikesCount: "Sahifadagi like'lar soni"
-contact: "aloqa uchun manzil"
-useSystemFont: "Tizimdagi standart shriftidan foydalaning"
-clips: "Klip"
-experimentalFeatures: "eksperimental xususiyatlar"
-experimental: "eksperimental"
-developer: "Dasturchi"
-makeExplorable: "Akkauntingizni topishni osonlashtiring"
-duplicate: "Dublikat"
-left: "Chap(dagi)"
-center: "Markaz"
-wide: "Keng"
-narrow: "Tor"
-reloadToApplySetting: "Bu sozlamalar sahifa yangilangandagina kuchga kiradi. Hozir yangilashni istaysizmi?"
-needReloadToApply: "Sahifani yangilash talab etiladi."
-clearCache: "Keshni tozalash"
-onlineUsersCount: "Faol userlar"
-nUsers: "{n} ta foydalanuvchi"
-myTheme: "Mening rang sxemam"
-backgroundColor: "Fon"
-accentColor: "Urg'u"
-textColor: "Matn"
-saveAs: "Boshqacha saqlash"
-advanced: "Murakkab"
-advancedSettings: "Qo'shimcha sozlashlar"
-value: "Qiymati"
-createdAt: "Yaratilish vaqti"
-updatedAt: "yangilangan sana"
-saveConfirm: "O'zgartirishni saqlash?"
-deleteConfirm: "o'chirishni tasdiqlash"
-invalidValue: "noto'g'ri qiymat"
-registry: "ro'yhatga olish"
-closeAccount: "hisobni yopish / profilni yopish"
-currentVersion: "joriy versiya"
-latestVersion: "so'ngi versiya"
-youAreRunningUpToDateClient: "siz so'ngi versiyali ilovani ishlatyapsiz"
-newVersionOfClientAvailable: "Mijozning yangi versiyasi mavjud."
-usageAmount: "foydalanish miqdori"
-capacity: "sig'im"
-inUse: "allaqachon band"
-editCode: "kodni tahrirlash"
-apply: "Ilova"
-receiveAnnouncementFromInstance: "Serverdan bildirishnomalarni oling"
-emailNotification: "E-mail xabarlari"
-publish: "Chiqarish"
-inChannelSearch: "Kanal qidirish"
-useReactionPickerForContextMenu: "kontekst menyusi uchun reaktsiya tanlash vositasidan foydalaning"
-typingUsers: "{users} yozmoqda"
-jumpToSpecifiedDate: "Muayyan sanaga o'tish"
-showingPastTimeline: "O'tgan vaqt jadvallarini ko'rsatish"
-clear: "aniq"
-markAllAsRead: "hammasini o'qilgan deb belgilang"
-goBack: "qaytish"
-unlikeConfirm: "Un like qilishni xohlaysizmi?"
-fullView: "to'liq ko'rish"
-quitFullView: "Toʻliq koʻrishdan chiqish"
-addDescription: "Tavsif qo'shing"
-info: "Haqida"
-userInfo: "Foydalanuvchi ma'lumotlari"
-unknown: "aniq emas"
-onlineStatus: "onlayn holat"
-hideOnlineStatus: "onlayn holatni yashirish"
-hideOnlineStatusDescription: "Onlayn statusingizni yashirish, qidiruv kabi baʼzi funksiyalardan foydalanish imkoniyatini kamaytirishi mumkin."
-online: "onlayn"
-active: "Aktiv"
-offline: "oflayn"
-notRecommended: "tavsiya etilmaydi"
-selectAccount: "Akkauntni tanlang"
-switchAccount: "akkauntni almashtirish"
-enabled: "yaroqli"
-disabled: "yaroqsiz"
-quickAction: "tezkor harakat"
-user: "Foydalanuvchilar"
-administration: "Administratsiya"
-accounts: "akkaunt"
-switch: "almashtirish"
-noBotProtectionWarning: "Bot himoyasi sozlanmagan."
-configure: "sozlamoq"
-postToGallery: "Yangi galleriya posti"
-gallery: "Galereya"
-recentPosts: "So'nggi postlar"
-popularPosts: "Mashhur postlar"
-shareWithNote: "Eslatmani ulashish"
-ads: "Reklama"
-startingperiod: "Boshlanish davri"
-memo: "Eslatma"
-priority: "Ustuvorlik"
-high: "Yuqori"
-middle: "O'rta"
-low: "Quyi"
-ratio: "nisbat"
-previewNoteText: "Razm solish"
-customCss: "Maxsus CSS"
-global: "Global"
-squareAvatars: "Kvadrat avatarkalar"
-sent: "Yuborish"
-received: "Qabul qilingan"
-searchResult: "Qidiruv natijalari"
-hashtags: "Hashteglar"
-troubleshooting: "Muammolarni bartaraf qilish"
-useBlurEffect: "Interfeysda xiralashtiruvchi effektlardan foydalanish"
-learnMore: "Batafsilroq"
-misskeyUpdated: "Misskey yangilandi!"
-whatIsNew: "O'zgarishlarni ko'rish"
-translate: "Tarjima qilish"
-translatedFrom: "{x} tilidan tarjima qilindi"
-devMode: "Dasturchi rejimi"
-lastCommunication: "Oxirgi muloqot"
-resolved: "Hal qilingan"
-unresolved: "Hal qilinmagan"
-breakFollow: "Obunachini o'chirish"
-breakFollowConfirm: "Obunachini o'chirmoqchimisiz?"
-itsOn: "Yoqilgan"
-itsOff: "O'chirilgan"
-on: "Yoqish"
-off: "O'chirish"
-emailRequiredForSignup: "Ro'yxatdan o'tish uchun email talab qilish"
-unread: "Oʻqilmagan xabarlar"
-filter: "Filter"
-controlPanel: "Boshqaruv paneli"
-manageAccounts: "Hisobni boshqarish"
-classic: "Klassik"
-hide: "Yashirish"
-searchByGoogle: "Izlash"
-indefinitely: "Hech qachon"
-file: "Fayllar"
-recommended: "Tavsiya qilingan"
-check: "Tekshirish"
-requireAdminForView: "Ko'rish uchun adminstrator hisobi bilan tizimga kirgan bo'lishingiz kerak."
-isSystemAccount: "Ushbu hisob tizim tomonidan avtomatik tarzda yaratilgan va boshqariladi."
-typeToConfirm: "Ushbu amalni bajarish uchun {x}ni kiriting"
-deleteAccount: "Hisobni o'chirish"
-document: "hujjat"
-numberOfPageCache: "Sahifa keshlar soni"
-logoutConfirm: "Chiqishni xohlaysizmi?"
-lastActiveDate: "oxirgi foydalanish sanasi"
-statusbar: "Holat paneli"
-pleaseSelect: "Iltimos tanlang"
-reverse: "Teskari"
-colored: "rangli"
-refreshInterval: "yangilash oralig'i"
-label: "Yorliq"
-type: "turi"
-speed: "tezlik"
-slow: "Sekin"
-fast: "Tez"
-localOnly: "Faqat mahalliy"
-remoteOnly: "faqat masofadan turib"
-failedToUpload: "yuklanmadi"
-cannotUploadBecauseInappropriate: "Faylni yuklab bo'lmaydi, chunki unda nomaqbul kontent borligi aniqlangan."
-cannotUploadBecauseNoFreeSpace: "Yuklab bo'lmadi, chunki diskda bo'sh joy yo'q."
-cannotUploadBecauseExceedsFileSizeLimit: "Faylni yuklash mumkin emas, chunki u fayl hajmi chegarasidan oshib ketgan."
-beta: "beta"
-account: "akkaunt"
-show: "Displey"
-color: "Rang"
-disableFederationConfirm: "Federatsiyani o'chirmoqchimisiz?"
-disableFederationOk: "O'chirish"
-emailNotSupported: "Bu server E-pochtalar yuborishni qo'llab-quvvatlamaydi"
-postToTheChannel: "Kanalga joylash"
-cannotBeChangedLater: "Buni keyinchalik o'zgartirishni iloji yo'q"
-likeOnly: "Faqat like'lar"
-nonSensitiveOnly: "Xavfsiz rejim"
-rolesAssignedToMe: "Mening rollarim"
-resetPasswordConfirm: "Qayta parol o'rnatmoqchimisiz?"
-sensitiveWords: "Ta'sirchan so'zlar"
-icon: "Avatar"
-replies: "Javob berish"
-renotes: "Qayta qayd etish"
-flip: "Teskari"
+_lang_: WAFwff awfawfawfwa fwa fwawhherhf
+headlineMisskey: WAFwff awfawfawfwa fwa fwawhherhf
+introMisskey: WAFwff awfawfawfwa fwa fwawhherhf
+poweredByMisskeyDescription: WAFwff awfawfawfwa fwa fwawhherhf
+monthAndDay: WAFwff awfawfawfwa fwa fwawhherhf
+search: WAFwff awfawfawfwa fwa fwawhherhf
+notifications: WAFwff awfawfawfwa fwa fwawhherhf
+username: WAFwff awfawfawfwa fwa fwawhherhf
+password: WAFwff awfawfawfwa fwa fwawhherhf
+forgotPassword: WAFwff awfawfawfwa fwa fwawhherhf
+fetchingAsApObject: WAFwff awfawfawfwa fwa fwawhherhf
+ok: WAFwff awfawfawfwa fwa fwawhherhf
+gotIt: WAFwff awfawfawfwa fwa fwawhherhf
+cancel: WAFwff awfawfawfwa fwa fwawhherhf
+noThankYou: WAFwff awfawfawfwa fwa fwawhherhf
+enterUsername: WAFwff awfawfawfwa fwa fwawhherhf
+renotedBy: WAFwff awfawfawfwa fwa fwawhherhf
+noNotes: WAFwff awfawfawfwa fwa fwawhherhf
+noNotifications: WAFwff awfawfawfwa fwa fwawhherhf
+instance: WAFwff awfawfawfwa fwa fwawhherhf
+settings: WAFwff awfawfawfwa fwa fwawhherhf
+notificationSettings: WAFwff awfawfawfwa fwa fwawhherhf
+basicSettings: WAFwff awfawfawfwa fwa fwawhherhf
+otherSettings: WAFwff awfawfawfwa fwa fwawhherhf
+openInWindow: WAFwff awfawfawfwa fwa fwawhherhf
+profile: WAFwff awfawfawfwa fwa fwawhherhf
+timeline: WAFwff awfawfawfwa fwa fwawhherhf
+noAccountDescription: WAFwff awfawfawfwa fwa fwawhherhf
+login: WAFwff awfawfawfwa fwa fwawhherhf
+loggingIn: WAFwff awfawfawfwa fwa fwawhherhf
+logout: WAFwff awfawfawfwa fwa fwawhherhf
+signup: WAFwff awfawfawfwa fwa fwawhherhf
+uploading: WAFwff awfawfawfwa fwa fwawhherhf
+save: WAFwff awfawfawfwa fwa fwawhherhf
+users: WAFwff awfawfawfwa fwa fwawhherhf
+addUser: WAFwff awfawfawfwa fwa fwawhherhf
+favorite: WAFwff awfawfawfwa fwa fwawhherhf
+favorites: WAFwff awfawfawfwa fwa fwawhherhf
+unfavorite: WAFwff awfawfawfwa fwa fwawhherhf
+favorited: WAFwff awfawfawfwa fwa fwawhherhf
+alreadyFavorited: WAFwff awfawfawfwa fwa fwawhherhf
+cantFavorite: WAFwff awfawfawfwa fwa fwawhherhf
+pin: WAFwff awfawfawfwa fwa fwawhherhf
+unpin: WAFwff awfawfawfwa fwa fwawhherhf
+copyContent: WAFwff awfawfawfwa fwa fwawhherhf
+copyLink: WAFwff awfawfawfwa fwa fwawhherhf
+delete: WAFwff awfawfawfwa fwa fwawhherhf
+deleteAndEdit: WAFwff awfawfawfwa fwa fwawhherhf
+deleteAndEditConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+addToList: WAFwff awfawfawfwa fwa fwawhherhf
+addToAntenna: WAFwff awfawfawfwa fwa fwawhherhf
+sendMessage: WAFwff awfawfawfwa fwa fwawhherhf
+copyRSS: WAFwff awfawfawfwa fwa fwawhherhf
+copyUsername: WAFwff awfawfawfwa fwa fwawhherhf
+copyUserId: WAFwff awfawfawfwa fwa fwawhherhf
+copyNoteId: WAFwff awfawfawfwa fwa fwawhherhf
+copyFileId: WAFwff awfawfawfwa fwa fwawhherhf
+copyFolderId: WAFwff awfawfawfwa fwa fwawhherhf
+copyProfileUrl: WAFwff awfawfawfwa fwa fwawhherhf
+searchUser: WAFwff awfawfawfwa fwa fwawhherhf
+reply: WAFwff awfawfawfwa fwa fwawhherhf
+loadMore: WAFwff awfawfawfwa fwa fwawhherhf
+showMore: WAFwff awfawfawfwa fwa fwawhherhf
+showLess: WAFwff awfawfawfwa fwa fwawhherhf
+youGotNewFollower: WAFwff awfawfawfwa fwa fwawhherhf
+receiveFollowRequest: WAFwff awfawfawfwa fwa fwawhherhf
+followRequestAccepted: WAFwff awfawfawfwa fwa fwawhherhf
+mention: WAFwff awfawfawfwa fwa fwawhherhf
+mentions: WAFwff awfawfawfwa fwa fwawhherhf
+directNotes: WAFwff awfawfawfwa fwa fwawhherhf
+importAndExport: WAFwff awfawfawfwa fwa fwawhherhf
+import: WAFwff awfawfawfwa fwa fwawhherhf
+export: WAFwff awfawfawfwa fwa fwawhherhf
+files: WAFwff awfawfawfwa fwa fwawhherhf
+download: WAFwff awfawfawfwa fwa fwawhherhf
+driveFileDeleteConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+unfollowConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+exportRequested: WAFwff awfawfawfwa fwa fwawhherhf
+importRequested: WAFwff awfawfawfwa fwa fwawhherhf
+lists: WAFwff awfawfawfwa fwa fwawhherhf
+noLists: WAFwff awfawfawfwa fwa fwawhherhf
+note: WAFwff awfawfawfwa fwa fwawhherhf
+notes: WAFwff awfawfawfwa fwa fwawhherhf
+following: WAFwff awfawfawfwa fwa fwawhherhf
+followers: WAFwff awfawfawfwa fwa fwawhherhf
+followsYou: WAFwff awfawfawfwa fwa fwawhherhf
+createList: WAFwff awfawfawfwa fwa fwawhherhf
+manageLists: WAFwff awfawfawfwa fwa fwawhherhf
+error: WAFwff awfawfawfwa fwa fwawhherhf
+somethingHappened: WAFwff awfawfawfwa fwa fwawhherhf
+retry: WAFwff awfawfawfwa fwa fwawhherhf
+pageLoadError: WAFwff awfawfawfwa fwa fwawhherhf
+pageLoadErrorDescription: WAFwff awfawfawfwa fwa fwawhherhf
+serverIsDead: WAFwff awfawfawfwa fwa fwawhherhf
+youShouldUpgradeClient: WAFwff awfawfawfwa fwa fwawhherhf
+enterListName: WAFwff awfawfawfwa fwa fwawhherhf
+privacy: WAFwff awfawfawfwa fwa fwawhherhf
+makeFollowManuallyApprove: WAFwff awfawfawfwa fwa fwawhherhf
+defaultNoteVisibility: WAFwff awfawfawfwa fwa fwawhherhf
+follow: WAFwff awfawfawfwa fwa fwawhherhf
+followRequest: WAFwff awfawfawfwa fwa fwawhherhf
+followRequests: WAFwff awfawfawfwa fwa fwawhherhf
+unfollow: WAFwff awfawfawfwa fwa fwawhherhf
+followRequestPending: WAFwff awfawfawfwa fwa fwawhherhf
+enterEmoji: WAFwff awfawfawfwa fwa fwawhherhf
+renote: WAFwff awfawfawfwa fwa fwawhherhf
+unrenote: WAFwff awfawfawfwa fwa fwawhherhf
+renoted: WAFwff awfawfawfwa fwa fwawhherhf
+cantRenote: WAFwff awfawfawfwa fwa fwawhherhf
+cantReRenote: WAFwff awfawfawfwa fwa fwawhherhf
+quote: WAFwff awfawfawfwa fwa fwawhherhf
+inChannelRenote: WAFwff awfawfawfwa fwa fwawhherhf
+inChannelQuote: WAFwff awfawfawfwa fwa fwawhherhf
+pinnedNote: WAFwff awfawfawfwa fwa fwawhherhf
+pinned: WAFwff awfawfawfwa fwa fwawhherhf
+you: WAFwff awfawfawfwa fwa fwawhherhf
+clickToShow: WAFwff awfawfawfwa fwa fwawhherhf
+sensitive: WAFwff awfawfawfwa fwa fwawhherhf
+add: WAFwff awfawfawfwa fwa fwawhherhf
+reaction: WAFwff awfawfawfwa fwa fwawhherhf
+reactions: WAFwff awfawfawfwa fwa fwawhherhf
+reactionSettingDescription2: WAFwff awfawfawfwa fwa fwawhherhf
+rememberNoteVisibility: WAFwff awfawfawfwa fwa fwawhherhf
+attachCancel: WAFwff awfawfawfwa fwa fwawhherhf
+markAsSensitive: WAFwff awfawfawfwa fwa fwawhherhf
+unmarkAsSensitive: WAFwff awfawfawfwa fwa fwawhherhf
+enterFileName: WAFwff awfawfawfwa fwa fwawhherhf
+mute: WAFwff awfawfawfwa fwa fwawhherhf
+unmute: WAFwff awfawfawfwa fwa fwawhherhf
+renoteMute: WAFwff awfawfawfwa fwa fwawhherhf
+renoteUnmute: WAFwff awfawfawfwa fwa fwawhherhf
+block: WAFwff awfawfawfwa fwa fwawhherhf
+unblock: WAFwff awfawfawfwa fwa fwawhherhf
+suspend: WAFwff awfawfawfwa fwa fwawhherhf
+unsuspend: WAFwff awfawfawfwa fwa fwawhherhf
+blockConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+unblockConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+suspendConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+unsuspendConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+selectList: WAFwff awfawfawfwa fwa fwawhherhf
+editList: WAFwff awfawfawfwa fwa fwawhherhf
+selectChannel: WAFwff awfawfawfwa fwa fwawhherhf
+selectAntenna: WAFwff awfawfawfwa fwa fwawhherhf
+editAntenna: WAFwff awfawfawfwa fwa fwawhherhf
+selectWidget: WAFwff awfawfawfwa fwa fwawhherhf
+editWidgets: WAFwff awfawfawfwa fwa fwawhherhf
+editWidgetsExit: WAFwff awfawfawfwa fwa fwawhherhf
+customEmojis: WAFwff awfawfawfwa fwa fwawhherhf
+emoji: WAFwff awfawfawfwa fwa fwawhherhf
+emojis: WAFwff awfawfawfwa fwa fwawhherhf
+emojiName: WAFwff awfawfawfwa fwa fwawhherhf
+emojiUrl: WAFwff awfawfawfwa fwa fwawhherhf
+addEmoji: WAFwff awfawfawfwa fwa fwawhherhf
+settingGuide: WAFwff awfawfawfwa fwa fwawhherhf
+cacheRemoteFiles: WAFwff awfawfawfwa fwa fwawhherhf
+cacheRemoteFilesDescription: WAFwff awfawfawfwa fwa fwawhherhf
+youCanCleanRemoteFilesCache: WAFwff awfawfawfwa fwa fwawhherhf
+cacheRemoteSensitiveFiles: WAFwff awfawfawfwa fwa fwawhherhf
+cacheRemoteSensitiveFilesDescription: WAFwff awfawfawfwa fwa fwawhherhf
+flagAsBot: WAFwff awfawfawfwa fwa fwawhherhf
+flagAsBotDescription: WAFwff awfawfawfwa fwa fwawhherhf
+flagAsCat: WAFwff awfawfawfwa fwa fwawhherhf
+flagAsCatDescription: WAFwff awfawfawfwa fwa fwawhherhf
+flagShowTimelineReplies: WAFwff awfawfawfwa fwa fwawhherhf
+flagShowTimelineRepliesDescription: WAFwff awfawfawfwa fwa fwawhherhf
+autoAcceptFollowed: WAFwff awfawfawfwa fwa fwawhherhf
+addAccount: WAFwff awfawfawfwa fwa fwawhherhf
+reloadAccountsList: WAFwff awfawfawfwa fwa fwawhherhf
+loginFailed: WAFwff awfawfawfwa fwa fwawhherhf
+showOnRemote: WAFwff awfawfawfwa fwa fwawhherhf
+general: WAFwff awfawfawfwa fwa fwawhherhf
+wallpaper: WAFwff awfawfawfwa fwa fwawhherhf
+setWallpaper: WAFwff awfawfawfwa fwa fwawhherhf
+removeWallpaper: WAFwff awfawfawfwa fwa fwawhherhf
+searchWith: WAFwff awfawfawfwa fwa fwawhherhf
+youHaveNoLists: WAFwff awfawfawfwa fwa fwawhherhf
+followConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+proxyAccount: WAFwff awfawfawfwa fwa fwawhherhf
+proxyAccountDescription: WAFwff awfawfawfwa fwa fwawhherhf
+host: WAFwff awfawfawfwa fwa fwawhherhf
+selectUser: WAFwff awfawfawfwa fwa fwawhherhf
+recipient: WAFwff awfawfawfwa fwa fwawhherhf
+annotation: WAFwff awfawfawfwa fwa fwawhherhf
+federation: WAFwff awfawfawfwa fwa fwawhherhf
+instances: WAFwff awfawfawfwa fwa fwawhherhf
+registeredAt: WAFwff awfawfawfwa fwa fwawhherhf
+latestRequestReceivedAt: WAFwff awfawfawfwa fwa fwawhherhf
+latestStatus: WAFwff awfawfawfwa fwa fwawhherhf
+storageUsage: WAFwff awfawfawfwa fwa fwawhherhf
+charts: WAFwff awfawfawfwa fwa fwawhherhf
+perHour: WAFwff awfawfawfwa fwa fwawhherhf
+perDay: WAFwff awfawfawfwa fwa fwawhherhf
+stopActivityDelivery: WAFwff awfawfawfwa fwa fwawhherhf
+blockThisInstance: WAFwff awfawfawfwa fwa fwawhherhf
+operations: WAFwff awfawfawfwa fwa fwawhherhf
+software: WAFwff awfawfawfwa fwa fwawhherhf
+version: WAFwff awfawfawfwa fwa fwawhherhf
+metadata: WAFwff awfawfawfwa fwa fwawhherhf
+withNFiles: WAFwff awfawfawfwa fwa fwawhherhf
+monitor: WAFwff awfawfawfwa fwa fwawhherhf
+jobQueue: WAFwff awfawfawfwa fwa fwawhherhf
+cpuAndMemory: WAFwff awfawfawfwa fwa fwawhherhf
+network: WAFwff awfawfawfwa fwa fwawhherhf
+disk: WAFwff awfawfawfwa fwa fwawhherhf
+instanceInfo: WAFwff awfawfawfwa fwa fwawhherhf
+statistics: WAFwff awfawfawfwa fwa fwawhherhf
+clearQueue: WAFwff awfawfawfwa fwa fwawhherhf
+clearQueueConfirmTitle: WAFwff awfawfawfwa fwa fwawhherhf
+clearQueueConfirmText: WAFwff awfawfawfwa fwa fwawhherhf
+clearCachedFiles: WAFwff awfawfawfwa fwa fwawhherhf
+clearCachedFilesConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+blockedInstances: WAFwff awfawfawfwa fwa fwawhherhf
+blockedInstancesDescription: WAFwff awfawfawfwa fwa fwawhherhf
+muteAndBlock: WAFwff awfawfawfwa fwa fwawhherhf
+mutedUsers: WAFwff awfawfawfwa fwa fwawhherhf
+blockedUsers: WAFwff awfawfawfwa fwa fwawhherhf
+noUsers: WAFwff awfawfawfwa fwa fwawhherhf
+editProfile: WAFwff awfawfawfwa fwa fwawhherhf
+noteDeleteConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+pinLimitExceeded: WAFwff awfawfawfwa fwa fwawhherhf
+intro: WAFwff awfawfawfwa fwa fwawhherhf
+done: WAFwff awfawfawfwa fwa fwawhherhf
+processing: WAFwff awfawfawfwa fwa fwawhherhf
+preview: WAFwff awfawfawfwa fwa fwawhherhf
+default: WAFwff awfawfawfwa fwa fwawhherhf
+defaultValueIs: WAFwff awfawfawfwa fwa fwawhherhf
+noCustomEmojis: WAFwff awfawfawfwa fwa fwawhherhf
+noJobs: WAFwff awfawfawfwa fwa fwawhherhf
+federating: WAFwff awfawfawfwa fwa fwawhherhf
+blocked: WAFwff awfawfawfwa fwa fwawhherhf
+suspended: WAFwff awfawfawfwa fwa fwawhherhf
+all: WAFwff awfawfawfwa fwa fwawhherhf
+subscribing: WAFwff awfawfawfwa fwa fwawhherhf
+publishing: WAFwff awfawfawfwa fwa fwawhherhf
+notResponding: WAFwff awfawfawfwa fwa fwawhherhf
+instanceFollowing: WAFwff awfawfawfwa fwa fwawhherhf
+instanceFollowers: WAFwff awfawfawfwa fwa fwawhherhf
+instanceUsers: WAFwff awfawfawfwa fwa fwawhherhf
+changePassword: WAFwff awfawfawfwa fwa fwawhherhf
+security: WAFwff awfawfawfwa fwa fwawhherhf
+retypedNotMatch: WAFwff awfawfawfwa fwa fwawhherhf
+currentPassword: WAFwff awfawfawfwa fwa fwawhherhf
+newPassword: WAFwff awfawfawfwa fwa fwawhherhf
+newPasswordRetype: WAFwff awfawfawfwa fwa fwawhherhf
+attachFile: WAFwff awfawfawfwa fwa fwawhherhf
+more: WAFwff awfawfawfwa fwa fwawhherhf
+featured: WAFwff awfawfawfwa fwa fwawhherhf
+usernameOrUserId: WAFwff awfawfawfwa fwa fwawhherhf
+noSuchUser: WAFwff awfawfawfwa fwa fwawhherhf
+lookup: WAFwff awfawfawfwa fwa fwawhherhf
+announcements: WAFwff awfawfawfwa fwa fwawhherhf
+imageUrl: WAFwff awfawfawfwa fwa fwawhherhf
+remove: WAFwff awfawfawfwa fwa fwawhherhf
+removed: WAFwff awfawfawfwa fwa fwawhherhf
+removeAreYouSure: WAFwff awfawfawfwa fwa fwawhherhf
+deleteAreYouSure: WAFwff awfawfawfwa fwa fwawhherhf
+resetAreYouSure: WAFwff awfawfawfwa fwa fwawhherhf
+saved: WAFwff awfawfawfwa fwa fwawhherhf
+messaging: WAFwff awfawfawfwa fwa fwawhherhf
+upload: WAFwff awfawfawfwa fwa fwawhherhf
+keepOriginalUploading: WAFwff awfawfawfwa fwa fwawhherhf
+keepOriginalUploadingDescription: WAFwff awfawfawfwa fwa fwawhherhf
+fromDrive: WAFwff awfawfawfwa fwa fwawhherhf
+fromUrl: WAFwff awfawfawfwa fwa fwawhherhf
+uploadFromUrl: WAFwff awfawfawfwa fwa fwawhherhf
+uploadFromUrlDescription: WAFwff awfawfawfwa fwa fwawhherhf
+uploadFromUrlRequested: WAFwff awfawfawfwa fwa fwawhherhf
+uploadFromUrlMayTakeTime: WAFwff awfawfawfwa fwa fwawhherhf
+explore: WAFwff awfawfawfwa fwa fwawhherhf
+messageRead: WAFwff awfawfawfwa fwa fwawhherhf
+noMoreHistory: WAFwff awfawfawfwa fwa fwawhherhf
+startMessaging: WAFwff awfawfawfwa fwa fwawhherhf
+nUsersRead: WAFwff awfawfawfwa fwa fwawhherhf
+agreeTo: WAFwff awfawfawfwa fwa fwawhherhf
+agree: WAFwff awfawfawfwa fwa fwawhherhf
+agreeBelow: WAFwff awfawfawfwa fwa fwawhherhf
+basicNotesBeforeCreateAccount: WAFwff awfawfawfwa fwa fwawhherhf
+termsOfService: WAFwff awfawfawfwa fwa fwawhherhf
+start: WAFwff awfawfawfwa fwa fwawhherhf
+home: WAFwff awfawfawfwa fwa fwawhherhf
+remoteUserCaution: WAFwff awfawfawfwa fwa fwawhherhf
+activity: WAFwff awfawfawfwa fwa fwawhherhf
+images: WAFwff awfawfawfwa fwa fwawhherhf
+image: WAFwff awfawfawfwa fwa fwawhherhf
+birthday: WAFwff awfawfawfwa fwa fwawhherhf
+yearsOld: WAFwff awfawfawfwa fwa fwawhherhf
+registeredDate: WAFwff awfawfawfwa fwa fwawhherhf
+location: WAFwff awfawfawfwa fwa fwawhherhf
+theme: WAFwff awfawfawfwa fwa fwawhherhf
+themeForLightMode: WAFwff awfawfawfwa fwa fwawhherhf
+themeForDarkMode: WAFwff awfawfawfwa fwa fwawhherhf
+light: WAFwff awfawfawfwa fwa fwawhherhf
+dark: WAFwff awfawfawfwa fwa fwawhherhf
+lightThemes: WAFwff awfawfawfwa fwa fwawhherhf
+darkThemes: WAFwff awfawfawfwa fwa fwawhherhf
+syncDeviceDarkMode: WAFwff awfawfawfwa fwa fwawhherhf
+drive: WAFwff awfawfawfwa fwa fwawhherhf
+fileName: WAFwff awfawfawfwa fwa fwawhherhf
+selectFile: WAFwff awfawfawfwa fwa fwawhherhf
+selectFiles: WAFwff awfawfawfwa fwa fwawhherhf
+selectFolder: WAFwff awfawfawfwa fwa fwawhherhf
+selectFolders: WAFwff awfawfawfwa fwa fwawhherhf
+renameFile: WAFwff awfawfawfwa fwa fwawhherhf
+folderName: WAFwff awfawfawfwa fwa fwawhherhf
+createFolder: WAFwff awfawfawfwa fwa fwawhherhf
+renameFolder: WAFwff awfawfawfwa fwa fwawhherhf
+deleteFolder: WAFwff awfawfawfwa fwa fwawhherhf
+addFile: WAFwff awfawfawfwa fwa fwawhherhf
+emptyDrive: WAFwff awfawfawfwa fwa fwawhherhf
+emptyFolder: WAFwff awfawfawfwa fwa fwawhherhf
+unableToDelete: WAFwff awfawfawfwa fwa fwawhherhf
+inputNewFileName: WAFwff awfawfawfwa fwa fwawhherhf
+inputNewDescription: WAFwff awfawfawfwa fwa fwawhherhf
+inputNewFolderName: WAFwff awfawfawfwa fwa fwawhherhf
+circularReferenceFolder: WAFwff awfawfawfwa fwa fwawhherhf
+hasChildFilesOrFolders: WAFwff awfawfawfwa fwa fwawhherhf
+copyUrl: WAFwff awfawfawfwa fwa fwawhherhf
+rename: WAFwff awfawfawfwa fwa fwawhherhf
+avatar: WAFwff awfawfawfwa fwa fwawhherhf
+banner: WAFwff awfawfawfwa fwa fwawhherhf
+displayOfSensitiveMedia: WAFwff awfawfawfwa fwa fwawhherhf
+whenServerDisconnected: WAFwff awfawfawfwa fwa fwawhherhf
+disconnectedFromServer: WAFwff awfawfawfwa fwa fwawhherhf
+reload: WAFwff awfawfawfwa fwa fwawhherhf
+doNothing: WAFwff awfawfawfwa fwa fwawhherhf
+reloadConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+watch: WAFwff awfawfawfwa fwa fwawhherhf
+unwatch: WAFwff awfawfawfwa fwa fwawhherhf
+accept: WAFwff awfawfawfwa fwa fwawhherhf
+reject: WAFwff awfawfawfwa fwa fwawhherhf
+normal: WAFwff awfawfawfwa fwa fwawhherhf
+instanceName: WAFwff awfawfawfwa fwa fwawhherhf
+instanceDescription: WAFwff awfawfawfwa fwa fwawhherhf
+maintainerName: WAFwff awfawfawfwa fwa fwawhherhf
+maintainerEmail: WAFwff awfawfawfwa fwa fwawhherhf
+tosUrl: WAFwff awfawfawfwa fwa fwawhherhf
+thisYear: WAFwff awfawfawfwa fwa fwawhherhf
+thisMonth: WAFwff awfawfawfwa fwa fwawhherhf
+today: WAFwff awfawfawfwa fwa fwawhherhf
+dayX: WAFwff awfawfawfwa fwa fwawhherhf
+monthX: WAFwff awfawfawfwa fwa fwawhherhf
+yearX: WAFwff awfawfawfwa fwa fwawhherhf
+pages: WAFwff awfawfawfwa fwa fwawhherhf
+integration: WAFwff awfawfawfwa fwa fwawhherhf
+connectService: WAFwff awfawfawfwa fwa fwawhherhf
+disconnectService: WAFwff awfawfawfwa fwa fwawhherhf
+enableLocalTimeline: WAFwff awfawfawfwa fwa fwawhherhf
+enableGlobalTimeline: WAFwff awfawfawfwa fwa fwawhherhf
+disablingTimelinesInfo: WAFwff awfawfawfwa fwa fwawhherhf
+registration: WAFwff awfawfawfwa fwa fwawhherhf
+enableRegistration: WAFwff awfawfawfwa fwa fwawhherhf
+invite: WAFwff awfawfawfwa fwa fwawhherhf
+driveCapacityPerLocalAccount: WAFwff awfawfawfwa fwa fwawhherhf
+driveCapacityPerRemoteAccount: WAFwff awfawfawfwa fwa fwawhherhf
+inMb: WAFwff awfawfawfwa fwa fwawhherhf
+bannerUrl: WAFwff awfawfawfwa fwa fwawhherhf
+backgroundImageUrl: WAFwff awfawfawfwa fwa fwawhherhf
+basicInfo: WAFwff awfawfawfwa fwa fwawhherhf
+pinnedUsers: WAFwff awfawfawfwa fwa fwawhherhf
+pinnedUsersDescription: WAFwff awfawfawfwa fwa fwawhherhf
+pinnedPages: WAFwff awfawfawfwa fwa fwawhherhf
+pinnedClipId: WAFwff awfawfawfwa fwa fwawhherhf
+pinnedNotes: WAFwff awfawfawfwa fwa fwawhherhf
+hcaptcha: WAFwff awfawfawfwa fwa fwawhherhf
+enableHcaptcha: WAFwff awfawfawfwa fwa fwawhherhf
+hcaptchaSiteKey: WAFwff awfawfawfwa fwa fwawhherhf
+hcaptchaSecretKey: WAFwff awfawfawfwa fwa fwawhherhf
+recaptcha: WAFwff awfawfawfwa fwa fwawhherhf
+enableRecaptcha: WAFwff awfawfawfwa fwa fwawhherhf
+recaptchaSiteKey: WAFwff awfawfawfwa fwa fwawhherhf
+recaptchaSecretKey: WAFwff awfawfawfwa fwa fwawhherhf
+turnstile: WAFwff awfawfawfwa fwa fwawhherhf
+enableTurnstile: WAFwff awfawfawfwa fwa fwawhherhf
+turnstileSiteKey: WAFwff awfawfawfwa fwa fwawhherhf
+turnstileSecretKey: WAFwff awfawfawfwa fwa fwawhherhf
+avoidMultiCaptchaConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+antennas: WAFwff awfawfawfwa fwa fwawhherhf
+manageAntennas: WAFwff awfawfawfwa fwa fwawhherhf
+name: WAFwff awfawfawfwa fwa fwawhherhf
+antennaSource: WAFwff awfawfawfwa fwa fwawhherhf
+antennaKeywords: WAFwff awfawfawfwa fwa fwawhherhf
+antennaExcludeKeywords: WAFwff awfawfawfwa fwa fwawhherhf
+antennaKeywordsDescription: WAFwff awfawfawfwa fwa fwawhherhf
+notifyAntenna: WAFwff awfawfawfwa fwa fwawhherhf
+withFileAntenna: WAFwff awfawfawfwa fwa fwawhherhf
+enableServiceworker: WAFwff awfawfawfwa fwa fwawhherhf
+antennaUsersDescription: WAFwff awfawfawfwa fwa fwawhherhf
+caseSensitive: WAFwff awfawfawfwa fwa fwawhherhf
+withReplies: WAFwff awfawfawfwa fwa fwawhherhf
+connectedTo: WAFwff awfawfawfwa fwa fwawhherhf
+notesAndReplies: WAFwff awfawfawfwa fwa fwawhherhf
+withFiles: WAFwff awfawfawfwa fwa fwawhherhf
+silence: WAFwff awfawfawfwa fwa fwawhherhf
+silenceConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+unsilence: WAFwff awfawfawfwa fwa fwawhherhf
+unsilenceConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+popularUsers: WAFwff awfawfawfwa fwa fwawhherhf
+recentlyUpdatedUsers: WAFwff awfawfawfwa fwa fwawhherhf
+recentlyRegisteredUsers: WAFwff awfawfawfwa fwa fwawhherhf
+recentlyDiscoveredUsers: WAFwff awfawfawfwa fwa fwawhherhf
+exploreUsersCount: WAFwff awfawfawfwa fwa fwawhherhf
+exploreFediverse: WAFwff awfawfawfwa fwa fwawhherhf
+popularTags: WAFwff awfawfawfwa fwa fwawhherhf
+userList: WAFwff awfawfawfwa fwa fwawhherhf
+about: WAFwff awfawfawfwa fwa fwawhherhf
+aboutMisskey: WAFwff awfawfawfwa fwa fwawhherhf
+administrator: WAFwff awfawfawfwa fwa fwawhherhf
+token: WAFwff awfawfawfwa fwa fwawhherhf
+2fa: WAFwff awfawfawfwa fwa fwawhherhf
+totp: WAFwff awfawfawfwa fwa fwawhherhf
+totpDescription: WAFwff awfawfawfwa fwa fwawhherhf
+moderator: WAFwff awfawfawfwa fwa fwawhherhf
+moderation: WAFwff awfawfawfwa fwa fwawhherhf
+nUsersMentioned: WAFwff awfawfawfwa fwa fwawhherhf
+securityKeyAndPasskey: WAFwff awfawfawfwa fwa fwawhherhf
+securityKey: WAFwff awfawfawfwa fwa fwawhherhf
+lastUsed: WAFwff awfawfawfwa fwa fwawhherhf
+lastUsedAt: WAFwff awfawfawfwa fwa fwawhherhf
+unregister: WAFwff awfawfawfwa fwa fwawhherhf
+passwordLessLogin: WAFwff awfawfawfwa fwa fwawhherhf
+passwordLessLoginDescription: WAFwff awfawfawfwa fwa fwawhherhf
+resetPassword: WAFwff awfawfawfwa fwa fwawhherhf
+newPasswordIs: WAFwff awfawfawfwa fwa fwawhherhf
+reduceUiAnimation: WAFwff awfawfawfwa fwa fwawhherhf
+share: WAFwff awfawfawfwa fwa fwawhherhf
+notFound: WAFwff awfawfawfwa fwa fwawhherhf
+notFoundDescription: WAFwff awfawfawfwa fwa fwawhherhf
+uploadFolder: WAFwff awfawfawfwa fwa fwawhherhf
+markAsReadAllNotifications: WAFwff awfawfawfwa fwa fwawhherhf
+markAsReadAllUnreadNotes: WAFwff awfawfawfwa fwa fwawhherhf
+markAsReadAllTalkMessages: WAFwff awfawfawfwa fwa fwawhherhf
+help: WAFwff awfawfawfwa fwa fwawhherhf
+inputMessageHere: WAFwff awfawfawfwa fwa fwawhherhf
+close: WAFwff awfawfawfwa fwa fwawhherhf
+invites: WAFwff awfawfawfwa fwa fwawhherhf
+members: WAFwff awfawfawfwa fwa fwawhherhf
+transfer: WAFwff awfawfawfwa fwa fwawhherhf
+title: WAFwff awfawfawfwa fwa fwawhherhf
+text: WAFwff awfawfawfwa fwa fwawhherhf
+enable: WAFwff awfawfawfwa fwa fwawhherhf
+next: WAFwff awfawfawfwa fwa fwawhherhf
+retype: WAFwff awfawfawfwa fwa fwawhherhf
+noteOf: WAFwff awfawfawfwa fwa fwawhherhf
+quoteAttached: WAFwff awfawfawfwa fwa fwawhherhf
+quoteQuestion: WAFwff awfawfawfwa fwa fwawhherhf
+noMessagesYet: WAFwff awfawfawfwa fwa fwawhherhf
+newMessageExists: WAFwff awfawfawfwa fwa fwawhherhf
+onlyOneFileCanBeAttached: WAFwff awfawfawfwa fwa fwawhherhf
+signinRequired: WAFwff awfawfawfwa fwa fwawhherhf
+invitations: WAFwff awfawfawfwa fwa fwawhherhf
+invitationCode: WAFwff awfawfawfwa fwa fwawhherhf
+checking: WAFwff awfawfawfwa fwa fwawhherhf
+available: WAFwff awfawfawfwa fwa fwawhherhf
+unavailable: WAFwff awfawfawfwa fwa fwawhherhf
+usernameInvalidFormat: WAFwff awfawfawfwa fwa fwawhherhf
+tooShort: WAFwff awfawfawfwa fwa fwawhherhf
+tooLong: WAFwff awfawfawfwa fwa fwawhherhf
+weakPassword: WAFwff awfawfawfwa fwa fwawhherhf
+normalPassword: WAFwff awfawfawfwa fwa fwawhherhf
+strongPassword: WAFwff awfawfawfwa fwa fwawhherhf
+passwordMatched: WAFwff awfawfawfwa fwa fwawhherhf
+passwordNotMatched: WAFwff awfawfawfwa fwa fwawhherhf
+signinWith: WAFwff awfawfawfwa fwa fwawhherhf
+signinFailed: WAFwff awfawfawfwa fwa fwawhherhf
+or: WAFwff awfawfawfwa fwa fwawhherhf
+language: WAFwff awfawfawfwa fwa fwawhherhf
+uiLanguage: WAFwff awfawfawfwa fwa fwawhherhf
+aboutX: WAFwff awfawfawfwa fwa fwawhherhf
+emojiStyle: WAFwff awfawfawfwa fwa fwawhherhf
+native: WAFwff awfawfawfwa fwa fwawhherhf
+disableDrawer: WAFwff awfawfawfwa fwa fwawhherhf
+showNoteActionsOnlyHover: WAFwff awfawfawfwa fwa fwawhherhf
+noHistory: WAFwff awfawfawfwa fwa fwawhherhf
+signinHistory: WAFwff awfawfawfwa fwa fwawhherhf
+enableAdvancedMfm: WAFwff awfawfawfwa fwa fwawhherhf
+doing: WAFwff awfawfawfwa fwa fwawhherhf
+category: WAFwff awfawfawfwa fwa fwawhherhf
+tags: WAFwff awfawfawfwa fwa fwawhherhf
+docSource: WAFwff awfawfawfwa fwa fwawhherhf
+createAccount: WAFwff awfawfawfwa fwa fwawhherhf
+existingAccount: WAFwff awfawfawfwa fwa fwawhherhf
+regenerate: WAFwff awfawfawfwa fwa fwawhherhf
+fontSize: WAFwff awfawfawfwa fwa fwawhherhf
+limitTo: WAFwff awfawfawfwa fwa fwawhherhf
+noFollowRequests: WAFwff awfawfawfwa fwa fwawhherhf
+openImageInNewTab: WAFwff awfawfawfwa fwa fwawhherhf
+dashboard: WAFwff awfawfawfwa fwa fwawhherhf
+local: WAFwff awfawfawfwa fwa fwawhherhf
+remote: WAFwff awfawfawfwa fwa fwawhherhf
+total: WAFwff awfawfawfwa fwa fwawhherhf
+weekOverWeekChanges: WAFwff awfawfawfwa fwa fwawhherhf
+dayOverDayChanges: WAFwff awfawfawfwa fwa fwawhherhf
+appearance: WAFwff awfawfawfwa fwa fwawhherhf
+clientSettings: WAFwff awfawfawfwa fwa fwawhherhf
+accountSettings: WAFwff awfawfawfwa fwa fwawhherhf
+promotion: WAFwff awfawfawfwa fwa fwawhherhf
+promote: WAFwff awfawfawfwa fwa fwawhherhf
+numberOfDays: WAFwff awfawfawfwa fwa fwawhherhf
+hideThisNote: WAFwff awfawfawfwa fwa fwawhherhf
+showFeaturedNotesInTimeline: WAFwff awfawfawfwa fwa fwawhherhf
+objectStorage: WAFwff awfawfawfwa fwa fwawhherhf
+useObjectStorage: WAFwff awfawfawfwa fwa fwawhherhf
+objectStorageBaseUrl: WAFwff awfawfawfwa fwa fwawhherhf
+objectStorageBaseUrlDesc: WAFwff awfawfawfwa fwa fwawhherhf
+objectStorageBucket: WAFwff awfawfawfwa fwa fwawhherhf
+objectStorageBucketDesc: WAFwff awfawfawfwa fwa fwawhherhf
+objectStoragePrefix: WAFwff awfawfawfwa fwa fwawhherhf
+objectStorageEndpoint: WAFwff awfawfawfwa fwa fwawhherhf
+objectStorageRegion: WAFwff awfawfawfwa fwa fwawhherhf
+objectStorageRegionDesc: WAFwff awfawfawfwa fwa fwawhherhf
+objectStorageUseSSL: WAFwff awfawfawfwa fwa fwawhherhf
+objectStorageUseSSLDesc: WAFwff awfawfawfwa fwa fwawhherhf
+objectStorageUseProxy: WAFwff awfawfawfwa fwa fwawhherhf
+objectStorageUseProxyDesc: WAFwff awfawfawfwa fwa fwawhherhf
+objectStorageSetPublicRead: WAFwff awfawfawfwa fwa fwawhherhf
+serverLogs: WAFwff awfawfawfwa fwa fwawhherhf
+deleteAll: WAFwff awfawfawfwa fwa fwawhherhf
+showFixedPostForm: WAFwff awfawfawfwa fwa fwawhherhf
+newNoteRecived: WAFwff awfawfawfwa fwa fwawhherhf
+sounds: WAFwff awfawfawfwa fwa fwawhherhf
+sound: WAFwff awfawfawfwa fwa fwawhherhf
+listen: WAFwff awfawfawfwa fwa fwawhherhf
+none: WAFwff awfawfawfwa fwa fwawhherhf
+showInPage: WAFwff awfawfawfwa fwa fwawhherhf
+popout: WAFwff awfawfawfwa fwa fwawhherhf
+volume: WAFwff awfawfawfwa fwa fwawhherhf
+details: WAFwff awfawfawfwa fwa fwawhherhf
+chooseEmoji: WAFwff awfawfawfwa fwa fwawhherhf
+unableToProcess: WAFwff awfawfawfwa fwa fwawhherhf
+recentUsed: WAFwff awfawfawfwa fwa fwawhherhf
+install: WAFwff awfawfawfwa fwa fwawhherhf
+uninstall: WAFwff awfawfawfwa fwa fwawhherhf
+installedApps: WAFwff awfawfawfwa fwa fwawhherhf
+nothing: WAFwff awfawfawfwa fwa fwawhherhf
+installedDate: WAFwff awfawfawfwa fwa fwawhherhf
+lastUsedDate: WAFwff awfawfawfwa fwa fwawhherhf
+state: WAFwff awfawfawfwa fwa fwawhherhf
+sort: WAFwff awfawfawfwa fwa fwawhherhf
+ascendingOrder: WAFwff awfawfawfwa fwa fwawhherhf
+descendingOrder: WAFwff awfawfawfwa fwa fwawhherhf
+scratchpad: WAFwff awfawfawfwa fwa fwawhherhf
+output: WAFwff awfawfawfwa fwa fwawhherhf
+script: WAFwff awfawfawfwa fwa fwawhherhf
+disablePagesScript: WAFwff awfawfawfwa fwa fwawhherhf
+updateRemoteUser: WAFwff awfawfawfwa fwa fwawhherhf
+deleteAllFiles: WAFwff awfawfawfwa fwa fwawhherhf
+deleteAllFilesConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+removeAllFollowing: WAFwff awfawfawfwa fwa fwawhherhf
+userSuspended: WAFwff awfawfawfwa fwa fwawhherhf
+userSilenced: WAFwff awfawfawfwa fwa fwawhherhf
+yourAccountSuspendedTitle: WAFwff awfawfawfwa fwa fwawhherhf
+yourAccountSuspendedDescription: WAFwff awfawfawfwa fwa fwawhherhf
+tokenRevoked: WAFwff awfawfawfwa fwa fwawhherhf
+tokenRevokedDescription: WAFwff awfawfawfwa fwa fwawhherhf
+accountDeleted: WAFwff awfawfawfwa fwa fwawhherhf
+accountDeletedDescription: WAFwff awfawfawfwa fwa fwawhherhf
+menu: WAFwff awfawfawfwa fwa fwawhherhf
+divider: WAFwff awfawfawfwa fwa fwawhherhf
+addItem: WAFwff awfawfawfwa fwa fwawhherhf
+rearrange: WAFwff awfawfawfwa fwa fwawhherhf
+inboxUrl: WAFwff awfawfawfwa fwa fwawhherhf
+serviceworkerInfo: WAFwff awfawfawfwa fwa fwawhherhf
+deletedNote: WAFwff awfawfawfwa fwa fwawhherhf
+visibility: WAFwff awfawfawfwa fwa fwawhherhf
+poll: WAFwff awfawfawfwa fwa fwawhherhf
+useCw: WAFwff awfawfawfwa fwa fwawhherhf
+enablePlayer: WAFwff awfawfawfwa fwa fwawhherhf
+disablePlayer: WAFwff awfawfawfwa fwa fwawhherhf
+expandTweet: WAFwff awfawfawfwa fwa fwawhherhf
+themeEditor: WAFwff awfawfawfwa fwa fwawhherhf
+description: WAFwff awfawfawfwa fwa fwawhherhf
+describeFile: WAFwff awfawfawfwa fwa fwawhherhf
+enterFileDescription: WAFwff awfawfawfwa fwa fwawhherhf
+author: WAFwff awfawfawfwa fwa fwawhherhf
+leaveConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+manage: WAFwff awfawfawfwa fwa fwawhherhf
+plugins: WAFwff awfawfawfwa fwa fwawhherhf
+preferencesBackups: WAFwff awfawfawfwa fwa fwawhherhf
+useBlurEffectForModal: WAFwff awfawfawfwa fwa fwawhherhf
+useFullReactionPicker: WAFwff awfawfawfwa fwa fwawhherhf
+width: WAFwff awfawfawfwa fwa fwawhherhf
+height: WAFwff awfawfawfwa fwa fwawhherhf
+large: WAFwff awfawfawfwa fwa fwawhherhf
+medium: WAFwff awfawfawfwa fwa fwawhherhf
+small: WAFwff awfawfawfwa fwa fwawhherhf
+generateAccessToken: WAFwff awfawfawfwa fwa fwawhherhf
+permission: WAFwff awfawfawfwa fwa fwawhherhf
+enableAll: WAFwff awfawfawfwa fwa fwawhherhf
+disableAll: WAFwff awfawfawfwa fwa fwawhherhf
+tokenRequested: WAFwff awfawfawfwa fwa fwawhherhf
+pluginTokenRequestedDescription: WAFwff awfawfawfwa fwa fwawhherhf
+notificationType: WAFwff awfawfawfwa fwa fwawhherhf
+edit: WAFwff awfawfawfwa fwa fwawhherhf
+emailServer: WAFwff awfawfawfwa fwa fwawhherhf
+email: WAFwff awfawfawfwa fwa fwawhherhf
+emailAddress: WAFwff awfawfawfwa fwa fwawhherhf
+smtpConfig: WAFwff awfawfawfwa fwa fwawhherhf
+smtpHost: WAFwff awfawfawfwa fwa fwawhherhf
+smtpPort: WAFwff awfawfawfwa fwa fwawhherhf
+smtpUser: WAFwff awfawfawfwa fwa fwawhherhf
+smtpPass: WAFwff awfawfawfwa fwa fwawhherhf
+testEmail: WAFwff awfawfawfwa fwa fwawhherhf
+userSaysSomething: WAFwff awfawfawfwa fwa fwawhherhf
+makeActive: WAFwff awfawfawfwa fwa fwawhherhf
+display: WAFwff awfawfawfwa fwa fwawhherhf
+copy: WAFwff awfawfawfwa fwa fwawhherhf
+metrics: WAFwff awfawfawfwa fwa fwawhherhf
+overview: WAFwff awfawfawfwa fwa fwawhherhf
+logs: WAFwff awfawfawfwa fwa fwawhherhf
+delayed: WAFwff awfawfawfwa fwa fwawhherhf
+database: WAFwff awfawfawfwa fwa fwawhherhf
+channel: WAFwff awfawfawfwa fwa fwawhherhf
+create: WAFwff awfawfawfwa fwa fwawhherhf
+notificationSetting: WAFwff awfawfawfwa fwa fwawhherhf
+notificationSettingDesc: WAFwff awfawfawfwa fwa fwawhherhf
+useGlobalSetting: WAFwff awfawfawfwa fwa fwawhherhf
+other: WAFwff awfawfawfwa fwa fwawhherhf
+regenerateLoginToken: WAFwff awfawfawfwa fwa fwawhherhf
+setMultipleBySeparatingWithSpace: WAFwff awfawfawfwa fwa fwawhherhf
+fileIdOrUrl: WAFwff awfawfawfwa fwa fwawhherhf
+behavior: WAFwff awfawfawfwa fwa fwawhherhf
+sample: WAFwff awfawfawfwa fwa fwawhherhf
+abuseReports: WAFwff awfawfawfwa fwa fwawhherhf
+reportAbuse: WAFwff awfawfawfwa fwa fwawhherhf
+reportAbuseOf: WAFwff awfawfawfwa fwa fwawhherhf
+abuseReported: WAFwff awfawfawfwa fwa fwawhherhf
+reporter: WAFwff awfawfawfwa fwa fwawhherhf
+reporteeOrigin: WAFwff awfawfawfwa fwa fwawhherhf
+reporterOrigin: WAFwff awfawfawfwa fwa fwawhherhf
+forwardReport: WAFwff awfawfawfwa fwa fwawhherhf
+forwardReportIsAnonymous: WAFwff awfawfawfwa fwa fwawhherhf
+send: WAFwff awfawfawfwa fwa fwawhherhf
+abuseMarkAsResolved: WAFwff awfawfawfwa fwa fwawhherhf
+openInNewTab: WAFwff awfawfawfwa fwa fwawhherhf
+openInSideView: WAFwff awfawfawfwa fwa fwawhherhf
+defaultNavigationBehaviour: WAFwff awfawfawfwa fwa fwawhherhf
+editTheseSettingsMayBreakAccount: WAFwff awfawfawfwa fwa fwawhherhf
+waitingFor: WAFwff awfawfawfwa fwa fwawhherhf
+random: WAFwff awfawfawfwa fwa fwawhherhf
+system: WAFwff awfawfawfwa fwa fwawhherhf
+switchUi: WAFwff awfawfawfwa fwa fwawhherhf
+desktop: WAFwff awfawfawfwa fwa fwawhherhf
+clip: WAFwff awfawfawfwa fwa fwawhherhf
+createNew: WAFwff awfawfawfwa fwa fwawhherhf
+optional: WAFwff awfawfawfwa fwa fwawhherhf
+createNewClip: WAFwff awfawfawfwa fwa fwawhherhf
+unclip: WAFwff awfawfawfwa fwa fwawhherhf
+confirmToUnclipAlreadyClippedNote: WAFwff awfawfawfwa fwa fwawhherhf
+public: WAFwff awfawfawfwa fwa fwawhherhf
+i18nInfo: WAFwff awfawfawfwa fwa fwawhherhf
+manageAccessTokens: WAFwff awfawfawfwa fwa fwawhherhf
+accountInfo: WAFwff awfawfawfwa fwa fwawhherhf
+notesCount: WAFwff awfawfawfwa fwa fwawhherhf
+repliesCount: WAFwff awfawfawfwa fwa fwawhherhf
+renotesCount: WAFwff awfawfawfwa fwa fwawhherhf
+repliedCount: WAFwff awfawfawfwa fwa fwawhherhf
+renotedCount: WAFwff awfawfawfwa fwa fwawhherhf
+followingCount: WAFwff awfawfawfwa fwa fwawhherhf
+followersCount: WAFwff awfawfawfwa fwa fwawhherhf
+sentReactionsCount: WAFwff awfawfawfwa fwa fwawhherhf
+receivedReactionsCount: WAFwff awfawfawfwa fwa fwawhherhf
+pollVotesCount: WAFwff awfawfawfwa fwa fwawhherhf
+pollVotedCount: WAFwff awfawfawfwa fwa fwawhherhf
+yes: WAFwff awfawfawfwa fwa fwawhherhf
+no: WAFwff awfawfawfwa fwa fwawhherhf
+driveFilesCount: WAFwff awfawfawfwa fwa fwawhherhf
+driveUsage: WAFwff awfawfawfwa fwa fwawhherhf
+noCrawleDescription: WAFwff awfawfawfwa fwa fwawhherhf
+lockedAccountInfo: WAFwff awfawfawfwa fwa fwawhherhf
+alwaysMarkSensitive: WAFwff awfawfawfwa fwa fwawhherhf
+loadRawImages: WAFwff awfawfawfwa fwa fwawhherhf
+disableShowingAnimatedImages: WAFwff awfawfawfwa fwa fwawhherhf
+verificationEmailSent: WAFwff awfawfawfwa fwa fwawhherhf
+notSet: WAFwff awfawfawfwa fwa fwawhherhf
+emailVerified: WAFwff awfawfawfwa fwa fwawhherhf
+pageLikesCount: WAFwff awfawfawfwa fwa fwawhherhf
+contact: WAFwff awfawfawfwa fwa fwawhherhf
+useSystemFont: WAFwff awfawfawfwa fwa fwawhherhf
+clips: WAFwff awfawfawfwa fwa fwawhherhf
+experimentalFeatures: WAFwff awfawfawfwa fwa fwawhherhf
+experimental: WAFwff awfawfawfwa fwa fwawhherhf
+developer: WAFwff awfawfawfwa fwa fwawhherhf
+makeExplorable: WAFwff awfawfawfwa fwa fwawhherhf
+duplicate: WAFwff awfawfawfwa fwa fwawhherhf
+left: WAFwff awfawfawfwa fwa fwawhherhf
+center: WAFwff awfawfawfwa fwa fwawhherhf
+wide: WAFwff awfawfawfwa fwa fwawhherhf
+narrow: WAFwff awfawfawfwa fwa fwawhherhf
+reloadToApplySetting: WAFwff awfawfawfwa fwa fwawhherhf
+needReloadToApply: WAFwff awfawfawfwa fwa fwawhherhf
+clearCache: WAFwff awfawfawfwa fwa fwawhherhf
+onlineUsersCount: WAFwff awfawfawfwa fwa fwawhherhf
+nUsers: WAFwff awfawfawfwa fwa fwawhherhf
+myTheme: WAFwff awfawfawfwa fwa fwawhherhf
+backgroundColor: WAFwff awfawfawfwa fwa fwawhherhf
+accentColor: WAFwff awfawfawfwa fwa fwawhherhf
+textColor: WAFwff awfawfawfwa fwa fwawhherhf
+saveAs: WAFwff awfawfawfwa fwa fwawhherhf
+advanced: WAFwff awfawfawfwa fwa fwawhherhf
+advancedSettings: WAFwff awfawfawfwa fwa fwawhherhf
+value: WAFwff awfawfawfwa fwa fwawhherhf
+createdAt: WAFwff awfawfawfwa fwa fwawhherhf
+updatedAt: WAFwff awfawfawfwa fwa fwawhherhf
+saveConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+deleteConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+invalidValue: WAFwff awfawfawfwa fwa fwawhherhf
+registry: WAFwff awfawfawfwa fwa fwawhherhf
+closeAccount: WAFwff awfawfawfwa fwa fwawhherhf
+currentVersion: WAFwff awfawfawfwa fwa fwawhherhf
+latestVersion: WAFwff awfawfawfwa fwa fwawhherhf
+youAreRunningUpToDateClient: WAFwff awfawfawfwa fwa fwawhherhf
+newVersionOfClientAvailable: WAFwff awfawfawfwa fwa fwawhherhf
+usageAmount: WAFwff awfawfawfwa fwa fwawhherhf
+capacity: WAFwff awfawfawfwa fwa fwawhherhf
+inUse: WAFwff awfawfawfwa fwa fwawhherhf
+editCode: WAFwff awfawfawfwa fwa fwawhherhf
+apply: WAFwff awfawfawfwa fwa fwawhherhf
+receiveAnnouncementFromInstance: WAFwff awfawfawfwa fwa fwawhherhf
+emailNotification: WAFwff awfawfawfwa fwa fwawhherhf
+publish: WAFwff awfawfawfwa fwa fwawhherhf
+inChannelSearch: WAFwff awfawfawfwa fwa fwawhherhf
+useReactionPickerForContextMenu: WAFwff awfawfawfwa fwa fwawhherhf
+typingUsers: WAFwff awfawfawfwa fwa fwawhherhf
+jumpToSpecifiedDate: WAFwff awfawfawfwa fwa fwawhherhf
+showingPastTimeline: WAFwff awfawfawfwa fwa fwawhherhf
+clear: WAFwff awfawfawfwa fwa fwawhherhf
+markAllAsRead: WAFwff awfawfawfwa fwa fwawhherhf
+goBack: WAFwff awfawfawfwa fwa fwawhherhf
+unlikeConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+fullView: WAFwff awfawfawfwa fwa fwawhherhf
+quitFullView: WAFwff awfawfawfwa fwa fwawhherhf
+addDescription: WAFwff awfawfawfwa fwa fwawhherhf
+info: WAFwff awfawfawfwa fwa fwawhherhf
+userInfo: WAFwff awfawfawfwa fwa fwawhherhf
+unknown: WAFwff awfawfawfwa fwa fwawhherhf
+onlineStatus: WAFwff awfawfawfwa fwa fwawhherhf
+hideOnlineStatus: WAFwff awfawfawfwa fwa fwawhherhf
+hideOnlineStatusDescription: WAFwff awfawfawfwa fwa fwawhherhf
+online: WAFwff awfawfawfwa fwa fwawhherhf
+active: WAFwff awfawfawfwa fwa fwawhherhf
+offline: WAFwff awfawfawfwa fwa fwawhherhf
+notRecommended: WAFwff awfawfawfwa fwa fwawhherhf
+selectAccount: WAFwff awfawfawfwa fwa fwawhherhf
+switchAccount: WAFwff awfawfawfwa fwa fwawhherhf
+enabled: WAFwff awfawfawfwa fwa fwawhherhf
+disabled: WAFwff awfawfawfwa fwa fwawhherhf
+quickAction: WAFwff awfawfawfwa fwa fwawhherhf
+user: WAFwff awfawfawfwa fwa fwawhherhf
+administration: WAFwff awfawfawfwa fwa fwawhherhf
+accounts: WAFwff awfawfawfwa fwa fwawhherhf
+switch: WAFwff awfawfawfwa fwa fwawhherhf
+noBotProtectionWarning: WAFwff awfawfawfwa fwa fwawhherhf
+configure: WAFwff awfawfawfwa fwa fwawhherhf
+postToGallery: WAFwff awfawfawfwa fwa fwawhherhf
+gallery: WAFwff awfawfawfwa fwa fwawhherhf
+recentPosts: WAFwff awfawfawfwa fwa fwawhherhf
+popularPosts: WAFwff awfawfawfwa fwa fwawhherhf
+shareWithNote: WAFwff awfawfawfwa fwa fwawhherhf
+ads: WAFwff awfawfawfwa fwa fwawhherhf
+startingperiod: WAFwff awfawfawfwa fwa fwawhherhf
+memo: WAFwff awfawfawfwa fwa fwawhherhf
+priority: WAFwff awfawfawfwa fwa fwawhherhf
+high: WAFwff awfawfawfwa fwa fwawhherhf
+middle: WAFwff awfawfawfwa fwa fwawhherhf
+low: WAFwff awfawfawfwa fwa fwawhherhf
+ratio: WAFwff awfawfawfwa fwa fwawhherhf
+previewNoteText: WAFwff awfawfawfwa fwa fwawhherhf
+customCss: WAFwff awfawfawfwa fwa fwawhherhf
+global: WAFwff awfawfawfwa fwa fwawhherhf
+squareAvatars: WAFwff awfawfawfwa fwa fwawhherhf
+sent: WAFwff awfawfawfwa fwa fwawhherhf
+received: WAFwff awfawfawfwa fwa fwawhherhf
+searchResult: WAFwff awfawfawfwa fwa fwawhherhf
+hashtags: WAFwff awfawfawfwa fwa fwawhherhf
+troubleshooting: WAFwff awfawfawfwa fwa fwawhherhf
+useBlurEffect: WAFwff awfawfawfwa fwa fwawhherhf
+learnMore: WAFwff awfawfawfwa fwa fwawhherhf
+misskeyUpdated: WAFwff awfawfawfwa fwa fwawhherhf
+whatIsNew: WAFwff awfawfawfwa fwa fwawhherhf
+translate: WAFwff awfawfawfwa fwa fwawhherhf
+translatedFrom: WAFwff awfawfawfwa fwa fwawhherhf
+devMode: WAFwff awfawfawfwa fwa fwawhherhf
+lastCommunication: WAFwff awfawfawfwa fwa fwawhherhf
+resolved: WAFwff awfawfawfwa fwa fwawhherhf
+unresolved: WAFwff awfawfawfwa fwa fwawhherhf
+breakFollow: WAFwff awfawfawfwa fwa fwawhherhf
+breakFollowConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+itsOn: WAFwff awfawfawfwa fwa fwawhherhf
+itsOff: WAFwff awfawfawfwa fwa fwawhherhf
+on: WAFwff awfawfawfwa fwa fwawhherhf
+off: WAFwff awfawfawfwa fwa fwawhherhf
+emailRequiredForSignup: WAFwff awfawfawfwa fwa fwawhherhf
+unread: WAFwff awfawfawfwa fwa fwawhherhf
+filter: WAFwff awfawfawfwa fwa fwawhherhf
+controlPanel: WAFwff awfawfawfwa fwa fwawhherhf
+manageAccounts: WAFwff awfawfawfwa fwa fwawhherhf
+classic: WAFwff awfawfawfwa fwa fwawhherhf
+hide: WAFwff awfawfawfwa fwa fwawhherhf
+searchByGoogle: WAFwff awfawfawfwa fwa fwawhherhf
+indefinitely: WAFwff awfawfawfwa fwa fwawhherhf
+file: WAFwff awfawfawfwa fwa fwawhherhf
+recommended: WAFwff awfawfawfwa fwa fwawhherhf
+check: WAFwff awfawfawfwa fwa fwawhherhf
+requireAdminForView: WAFwff awfawfawfwa fwa fwawhherhf
+isSystemAccount: WAFwff awfawfawfwa fwa fwawhherhf
+typeToConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+deleteAccount: WAFwff awfawfawfwa fwa fwawhherhf
+document: WAFwff awfawfawfwa fwa fwawhherhf
+numberOfPageCache: WAFwff awfawfawfwa fwa fwawhherhf
+logoutConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+lastActiveDate: WAFwff awfawfawfwa fwa fwawhherhf
+statusbar: WAFwff awfawfawfwa fwa fwawhherhf
+pleaseSelect: WAFwff awfawfawfwa fwa fwawhherhf
+reverse: WAFwff awfawfawfwa fwa fwawhherhf
+colored: WAFwff awfawfawfwa fwa fwawhherhf
+refreshInterval: WAFwff awfawfawfwa fwa fwawhherhf
+label: WAFwff awfawfawfwa fwa fwawhherhf
+type: WAFwff awfawfawfwa fwa fwawhherhf
+speed: WAFwff awfawfawfwa fwa fwawhherhf
+slow: WAFwff awfawfawfwa fwa fwawhherhf
+fast: WAFwff awfawfawfwa fwa fwawhherhf
+localOnly: WAFwff awfawfawfwa fwa fwawhherhf
+remoteOnly: WAFwff awfawfawfwa fwa fwawhherhf
+failedToUpload: WAFwff awfawfawfwa fwa fwawhherhf
+cannotUploadBecauseInappropriate: WAFwff awfawfawfwa fwa fwawhherhf
+cannotUploadBecauseNoFreeSpace: WAFwff awfawfawfwa fwa fwawhherhf
+cannotUploadBecauseExceedsFileSizeLimit: WAFwff awfawfawfwa fwa fwawhherhf
+beta: WAFwff awfawfawfwa fwa fwawhherhf
+account: WAFwff awfawfawfwa fwa fwawhherhf
+show: WAFwff awfawfawfwa fwa fwawhherhf
+color: WAFwff awfawfawfwa fwa fwawhherhf
+disableFederationConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+disableFederationOk: WAFwff awfawfawfwa fwa fwawhherhf
+emailNotSupported: WAFwff awfawfawfwa fwa fwawhherhf
+postToTheChannel: WAFwff awfawfawfwa fwa fwawhherhf
+cannotBeChangedLater: WAFwff awfawfawfwa fwa fwawhherhf
+likeOnly: WAFwff awfawfawfwa fwa fwawhherhf
+nonSensitiveOnly: WAFwff awfawfawfwa fwa fwawhherhf
+rolesAssignedToMe: WAFwff awfawfawfwa fwa fwawhherhf
+resetPasswordConfirm: WAFwff awfawfawfwa fwa fwawhherhf
+sensitiveWords: WAFwff awfawfawfwa fwa fwawhherhf
+icon: WAFwff awfawfawfwa fwa fwawhherhf
+replies: WAFwff awfawfawfwa fwa fwawhherhf
+renotes: WAFwff awfawfawfwa fwa fwawhherhf
+flip: WAFwff awfawfawfwa fwa fwawhherhf
 _achievements:
   _types:
     _viewInstanceChart:
-      title: "Tahlilchi"
+      title: WAFwff awfawfawfwa fwa fwawhherhf
 _role:
-  priority: "Ustuvorlik"
+  priority: WAFwff awfawfawfwa fwa fwawhherhf
   _priority:
-    low: "Quyi"
-    middle: "O'rta"
-    high: "Yuqori"
+    low: WAFwff awfawfawfwa fwa fwawhherhf
+    middle: WAFwff awfawfawfwa fwa fwawhherhf
+    high: WAFwff awfawfawfwa fwa fwawhherhf
 _ffVisibility:
-  public: "Chiqarish"
+  public: WAFwff awfawfawfwa fwa fwawhherhf
 _ad:
-  back: "qaytish"
-  hide: "Boshqa ko'rsatilmasin"
+  back: WAFwff awfawfawfwa fwa fwawhherhf
+  hide: WAFwff awfawfawfwa fwa fwawhherhf
 _email:
   _follow:
-    title: "sizga obuna bo'ldi"
+    title: WAFwff awfawfawfwa fwa fwawhherhf
 _registry:
-  key: "Kalit"
-  keys: "Kalit"
+  key: WAFwff awfawfawfwa fwa fwawhherhf
+  keys: WAFwff awfawfawfwa fwa fwawhherhf
 _instanceTicker:
-  none: "Boshqa ko'rsatilmasin"
-  always: "Doimo ko'rsatilsin"
+  none: WAFwff awfawfawfwa fwa fwawhherhf
+  always: WAFwff awfawfawfwa fwa fwawhherhf
 _theme:
-  install: "Rang sxemasini o'rnatish"
-  manage: "Rang sxemalarini boshqarish"
-  code: "Rang sxemasining kodi"
-  description: "Tavsif"
-  installed: "{name} o'rnatildi"
-  installedThemes: "O'rnatilgan rang sxemalari"
-  alreadyInstalled: "Ushbu rang sxemasi allaqachon o'rnatilgan"
-  invalid: "Ushbu rang sxemasining formati yaroqsiz"
-  make: "Rang sxemasini yasash"
-  base: "Asos"
-  addConstant: "O'zgarmas qo'shish"
-  constant: "O'zgarmas"
-  color: "Rang"
-  key: "Kalit"
-  func: "Funksiyalar"
-  funcKind: "Funksiya turi"
-  argument: "Argument"
-  darken: "Qoraytirish"
-  lighten: "Yoritish"
-  inputConstantName: "Ushbu o'zgarmas uchun nom kiriting"
-  deleteConstantConfirm: "Siz rostdan ham {const} o'zgarmasni o'chirmoqchimisiz?"
+  install: WAFwff awfawfawfwa fwa fwawhherhf
+  manage: WAFwff awfawfawfwa fwa fwawhherhf
+  code: WAFwff awfawfawfwa fwa fwawhherhf
+  description: WAFwff awfawfawfwa fwa fwawhherhf
+  installed: WAFwff awfawfawfwa fwa fwawhherhf
+  installedThemes: WAFwff awfawfawfwa fwa fwawhherhf
+  alreadyInstalled: WAFwff awfawfawfwa fwa fwawhherhf
+  invalid: WAFwff awfawfawfwa fwa fwawhherhf
+  make: WAFwff awfawfawfwa fwa fwawhherhf
+  base: WAFwff awfawfawfwa fwa fwawhherhf
+  addConstant: WAFwff awfawfawfwa fwa fwawhherhf
+  constant: WAFwff awfawfawfwa fwa fwawhherhf
+  color: WAFwff awfawfawfwa fwa fwawhherhf
+  key: WAFwff awfawfawfwa fwa fwawhherhf
+  func: WAFwff awfawfawfwa fwa fwawhherhf
+  funcKind: WAFwff awfawfawfwa fwa fwawhherhf
+  argument: WAFwff awfawfawfwa fwa fwawhherhf
+  darken: WAFwff awfawfawfwa fwa fwawhherhf
+  lighten: WAFwff awfawfawfwa fwa fwawhherhf
+  inputConstantName: WAFwff awfawfawfwa fwa fwawhherhf
+  deleteConstantConfirm: WAFwff awfawfawfwa fwa fwawhherhf
   keys:
-    accent: "Urg'u"
-    bg: "Fon"
-    fg: "Matn"
-    focus: "Fokus"
-    panel: "Panel"
-    shadow: "Soya"
-    header: "Sarlavha"
-    navBg: "Yon panel foni"
-    navFg: "Yon panel matni"
-    mention: "Murojat"
-    renote: "Qayta qayd etish"
-    divider: "Ajratrmoq"
-    accentDarken: "Urg'u (Qoraytirilgan)"
-    accentLighten: "Urg'u (Yoritilgan)"
-    fgHighlighted: "Belgilangan matn"
+    accent: WAFwff awfawfawfwa fwa fwawhherhf
+    bg: WAFwff awfawfawfwa fwa fwawhherhf
+    fg: WAFwff awfawfawfwa fwa fwawhherhf
+    focus: WAFwff awfawfawfwa fwa fwawhherhf
+    panel: WAFwff awfawfawfwa fwa fwawhherhf
+    shadow: WAFwff awfawfawfwa fwa fwawhherhf
+    header: WAFwff awfawfawfwa fwa fwawhherhf
+    navBg: WAFwff awfawfawfwa fwa fwawhherhf
+    navFg: WAFwff awfawfawfwa fwa fwawhherhf
+    mention: WAFwff awfawfawfwa fwa fwawhherhf
+    renote: WAFwff awfawfawfwa fwa fwawhherhf
+    divider: WAFwff awfawfawfwa fwa fwawhherhf
+    accentDarken: WAFwff awfawfawfwa fwa fwawhherhf
+    accentLighten: WAFwff awfawfawfwa fwa fwawhherhf
+    fgHighlighted: WAFwff awfawfawfwa fwa fwawhherhf
 _sfx:
-  note: "Qaydlar"
-  notification: "Xabarnomalar"
+  note: WAFwff awfawfawfwa fwa fwawhherhf
+  notification: WAFwff awfawfawfwa fwa fwawhherhf
 _ago:
-  minutesAgo: "{n} daqiqa oldin"
-  hoursAgo: "{n} soat oldin"
-  daysAgo: "{n} kun oldin"
-  invalid: "Hech narsa yo'q"
+  minutesAgo: WAFwff awfawfawfwa fwa fwawhherhf
+  hoursAgo: WAFwff awfawfawfwa fwa fwawhherhf
+  daysAgo: WAFwff awfawfawfwa fwa fwawhherhf
+  invalid: WAFwff awfawfawfwa fwa fwawhherhf
 _2fa:
-  renewTOTPCancel: "Hozir emas"
+  renewTOTPCancel: WAFwff awfawfawfwa fwa fwawhherhf
 _permissions:
-  "read:blocks": "Bloklangan foydalanuvchilar roʻyxatini koʻring"
-  "write:blocks": "Bloklangan foydalanuvchilar roʻyxatini tahrirlang"
+  WAFwff awfawfawfwa fwa fwawhherhf
+  WAFwff awfawfawfwa fwa fwawhherhf
 _weekday:
-  saturday: "Shanba"
+  saturday: WAFwff awfawfawfwa fwa fwawhherhf
 _widgets:
-  profile: "Profil"
-  instanceInfo: "Instans haqida ma'lumot"
-  notifications: "Xabarnomalar"
-  timeline: "Xronologiya"
-  clock: "Soat"
-  activity: "Faollik"
-  photos: "Rasmlar"
-  digitalClock: "Raqamli soat"
-  unixClock: "UNIX soat"
-  federation: "Federatsiya"
-  button: "Tugma"
-  jobQueue: "Vazifalar navbati"
+  profile: WAFwff awfawfawfwa fwa fwawhherhf
+  instanceInfo: WAFwff awfawfawfwa fwa fwawhherhf
+  notifications: WAFwff awfawfawfwa fwa fwawhherhf
+  timeline: WAFwff awfawfawfwa fwa fwawhherhf
+  clock: WAFwff awfawfawfwa fwa fwawhherhf
+  activity: WAFwff awfawfawfwa fwa fwawhherhf
+  photos: WAFwff awfawfawfwa fwa fwawhherhf
+  digitalClock: WAFwff awfawfawfwa fwa fwawhherhf
+  unixClock: WAFwff awfawfawfwa fwa fwawhherhf
+  federation: WAFwff awfawfawfwa fwa fwawhherhf
+  button: WAFwff awfawfawfwa fwa fwawhherhf
+  jobQueue: WAFwff awfawfawfwa fwa fwawhherhf
   _userList:
-    chooseList: "Ro'yxat tanlash"
+    chooseList: WAFwff awfawfawfwa fwa fwawhherhf
 _cw:
-  show: "Ko‘proq ko‘rish"
-  chars: "{count} ta belgi(lar)"
-  files: "{count} ta fayl(lar)"
+  show: WAFwff awfawfawfwa fwa fwawhherhf
+  chars: WAFwff awfawfawfwa fwa fwawhherhf
+  files: WAFwff awfawfawfwa fwa fwawhherhf
 _poll:
-  noOnlyOneChoice: "Kamida ikkita tanvol kerak"
-  infinite: "Hech qachon"
-  at: "...da tugatish"
-  after: "...dan keyin tugatish"
-  deadlineTime: "Vaqt"
-  duration: "Davomiylik"
-  votesCount: "{n} ovozlar"
-  totalVotes: "Umuman {n} ovozlar"
-  vote: "Ovoz berish"
-  showResult: "Natijalarni ko'rish"
-  voted: "Ovoz berildi"
-  closed: "Yakunladi"
-  remainingDays: "{d} kun {h} soat qoldi"
-  remainingHours: "{h} soat {m} daqiqa qoldi"
-  remainingMinutes: "{m} daqiqa {s} sekund qoldi"
-  remainingSeconds: "{s} sekund qoldi"
+  noOnlyOneChoice: WAFwff awfawfawfwa fwa fwawhherhf
+  infinite: WAFwff awfawfawfwa fwa fwawhherhf
+  at: WAFwff awfawfawfwa fwa fwawhherhf
+  after: WAFwff awfawfawfwa fwa fwawhherhf
+  deadlineTime: WAFwff awfawfawfwa fwa fwawhherhf
+  duration: WAFwff awfawfawfwa fwa fwawhherhf
+  votesCount: WAFwff awfawfawfwa fwa fwawhherhf
+  totalVotes: WAFwff awfawfawfwa fwa fwawhherhf
+  vote: WAFwff awfawfawfwa fwa fwawhherhf
+  showResult: WAFwff awfawfawfwa fwa fwawhherhf
+  voted: WAFwff awfawfawfwa fwa fwawhherhf
+  closed: WAFwff awfawfawfwa fwa fwawhherhf
+  remainingDays: WAFwff awfawfawfwa fwa fwawhherhf
+  remainingHours: WAFwff awfawfawfwa fwa fwawhherhf
+  remainingMinutes: WAFwff awfawfawfwa fwa fwawhherhf
+  remainingSeconds: WAFwff awfawfawfwa fwa fwawhherhf
 _visibility:
-  public: "Ommaviy"
-  publicDescription: "Sizning ovozingiz barcha foydalanuvchilarga ko'rinadi"
-  home: "Bosh sahifa"
-  followers: "Obunachilar"
-  specified: "Bevosita"
+  public: WAFwff awfawfawfwa fwa fwawhherhf
+  publicDescription: WAFwff awfawfawfwa fwa fwawhherhf
+  home: WAFwff awfawfawfwa fwa fwawhherhf
+  followers: WAFwff awfawfawfwa fwa fwawhherhf
+  specified: WAFwff awfawfawfwa fwa fwawhherhf
 _profile:
-  name: "Ism"
-  username: "Foydalanuvchi nomi"
-  description: "Biografiya"
-  metadata: "Qo'shimcha ma'lumot"
-  metadataLabel: "Yorliq"
-  metadataContent: "Tarkib"
-  changeBanner: "Bannerni o'zgartirish"
+  name: WAFwff awfawfawfwa fwa fwawhherhf
+  username: WAFwff awfawfawfwa fwa fwawhherhf
+  description: WAFwff awfawfawfwa fwa fwawhherhf
+  metadata: WAFwff awfawfawfwa fwa fwawhherhf
+  metadataLabel: WAFwff awfawfawfwa fwa fwawhherhf
+  metadataContent: WAFwff awfawfawfwa fwa fwawhherhf
+  changeBanner: WAFwff awfawfawfwa fwa fwawhherhf
 _exportOrImport:
-  allNotes: "Barcha qaydlar"
-  followingList: "Obuna bo‘lish"
-  muteList: "Ovozni o‘chirish"
-  blockingList: "Bloklangan foydalanuvchilar"
-  userLists: "Ro'yxatlar"
+  allNotes: WAFwff awfawfawfwa fwa fwawhherhf
+  followingList: WAFwff awfawfawfwa fwa fwawhherhf
+  muteList: WAFwff awfawfawfwa fwa fwawhherhf
+  blockingList: WAFwff awfawfawfwa fwa fwawhherhf
+  userLists: WAFwff awfawfawfwa fwa fwawhherhf
 _charts:
-  federation: "Federatsiya"
-  apRequest: "So'rovlar"
-  usersTotal: "Foydalanuvchilarning umumiy soni"
-  activeUsers: "Faol foydalanuvchilar"
-  notesTotal: "Qaydlarning umumiy soni"
-  filesTotal: "Fayllarning umumiy soni"
+  federation: WAFwff awfawfawfwa fwa fwawhherhf
+  apRequest: WAFwff awfawfawfwa fwa fwawhherhf
+  usersTotal: WAFwff awfawfawfwa fwa fwawhherhf
+  activeUsers: WAFwff awfawfawfwa fwa fwawhherhf
+  notesTotal: WAFwff awfawfawfwa fwa fwawhherhf
+  filesTotal: WAFwff awfawfawfwa fwa fwawhherhf
 _instanceCharts:
-  requests: "So'rovlar"
-  notes: "Qaydlar sonidagi farq"
-  cacheSize: "Kesh hajmidagi farq"
-  files: "Fayllar sonidagi farq"
+  requests: WAFwff awfawfawfwa fwa fwawhherhf
+  notes: WAFwff awfawfawfwa fwa fwawhherhf
+  cacheSize: WAFwff awfawfawfwa fwa fwawhherhf
+  files: WAFwff awfawfawfwa fwa fwawhherhf
 _timelines:
-  home: "Bosh sahifa"
-  local: "Mahalliy"
-  social: "Ijtimoiy"
-  global: "Global"
+  home: WAFwff awfawfawfwa fwa fwawhherhf
+  local: WAFwff awfawfawfwa fwa fwawhherhf
+  social: WAFwff awfawfawfwa fwa fwawhherhf
+  global: WAFwff awfawfawfwa fwa fwawhherhf
 _play:
-  featured: "Mashhur"
-  title: "Sarlavha"
-  script: "Skript"
-  summary: "Tavsif"
+  featured: WAFwff awfawfawfwa fwa fwawhherhf
+  title: WAFwff awfawfawfwa fwa fwawhherhf
+  script: WAFwff awfawfawfwa fwa fwawhherhf
+  summary: WAFwff awfawfawfwa fwa fwawhherhf
 _pages:
-  newPage: "Yangi Sahifa yaratish"
-  editPage: "Ushbu Sahifani tahrirlash"
-  created: "Sahifa muvaffaqiyatli yaratildi"
-  updated: "Sahifa muvaffaqiyatli tahrirlandi"
-  deleted: "Sahifa muvaffaqiyatli o'chirildi"
-  pageSetting: "Sahifa sozlamalari"
-  nameAlreadyExists: "Ko'rsatilgan Sahifa URL'i allaqachon mavjud"
-  invalidNameTitle: "Ko'rsatilgan Sahifa URL'i yaroqsiz"
-  editThisPage: "Ushbu Sahifani tahrirlash"
-  viewPage: "Sizning Sahifalaringizni ko'rish"
-  my: "Mening Sahifalarim"
-  featured: "Mashhur"
-  contents: "Tarkib"
-  title: "Sarlavha"
-  url: "Sahifa URL'i"
-  summary: "Sahifa bayoni"
-  font: "Shrift"
-  fontSerif: "Serif"
-  fontSansSerif: "Sans Serif"
-  selectType: "Turni tanlang"
-  contentBlocks: "Tarkib"
+  newPage: WAFwff awfawfawfwa fwa fwawhherhf
+  editPage: WAFwff awfawfawfwa fwa fwawhherhf
+  created: WAFwff awfawfawfwa fwa fwawhherhf
+  updated: WAFwff awfawfawfwa fwa fwawhherhf
+  deleted: WAFwff awfawfawfwa fwa fwawhherhf
+  pageSetting: WAFwff awfawfawfwa fwa fwawhherhf
+  nameAlreadyExists: WAFwff awfawfawfwa fwa fwawhherhf
+  invalidNameTitle: WAFwff awfawfawfwa fwa fwawhherhf
+  editThisPage: WAFwff awfawfawfwa fwa fwawhherhf
+  viewPage: WAFwff awfawfawfwa fwa fwawhherhf
+  my: WAFwff awfawfawfwa fwa fwawhherhf
+  featured: WAFwff awfawfawfwa fwa fwawhherhf
+  contents: WAFwff awfawfawfwa fwa fwawhherhf
+  title: WAFwff awfawfawfwa fwa fwawhherhf
+  url: WAFwff awfawfawfwa fwa fwawhherhf
+  summary: WAFwff awfawfawfwa fwa fwawhherhf
+  font: WAFwff awfawfawfwa fwa fwawhherhf
+  fontSerif: WAFwff awfawfawfwa fwa fwawhherhf
+  fontSansSerif: WAFwff awfawfawfwa fwa fwawhherhf
+  selectType: WAFwff awfawfawfwa fwa fwawhherhf
+  contentBlocks: WAFwff awfawfawfwa fwa fwawhherhf
   blocks:
-    text: "Matn"
-    textarea: "Matn maydoni"
-    section: "Bo'lim"
-    image: "Rasmlar"
-    button: "Tugma"
-    note: "Biriktirilgan qayd"
+    text: WAFwff awfawfawfwa fwa fwawhherhf
+    textarea: WAFwff awfawfawfwa fwa fwawhherhf
+    section: WAFwff awfawfawfwa fwa fwawhherhf
+    image: WAFwff awfawfawfwa fwa fwawhherhf
+    button: WAFwff awfawfawfwa fwa fwawhherhf
+    note: WAFwff awfawfawfwa fwa fwawhherhf
     _note:
-      id: "Qayd ID"
-      detailed: "Batafsil ko'rinishi"
+      id: WAFwff awfawfawfwa fwa fwawhherhf
+      detailed: WAFwff awfawfawfwa fwa fwawhherhf
 _relayStatus:
-  requesting: "Kutilmoqda"
-  accepted: "Tasdiqlandi"
-  rejected: "Rad etildi"
+  requesting: WAFwff awfawfawfwa fwa fwawhherhf
+  accepted: WAFwff awfawfawfwa fwa fwawhherhf
+  rejected: WAFwff awfawfawfwa fwa fwawhherhf
 _notification:
-  fileUploaded: "Fayl muvaffaqiyatli yuklandi"
-  youGotMention: "{name} sizni eslab o'tdi"
-  youGotReply: "{name} sizga javob berdi"
-  youGotQuote: "{name} sizdan iqtibos keltirdi"
-  youRenoted: "{name} dan qayta qayd qilish"
-  youWereFollowed: "sizga obuna bo'ldi"
-  unreadAntennaNote: "Antenna {name}"
+  fileUploaded: WAFwff awfawfawfwa fwa fwawhherhf
+  youGotMention: WAFwff awfawfawfwa fwa fwawhherhf
+  youGotReply: WAFwff awfawfawfwa fwa fwawhherhf
+  youGotQuote: WAFwff awfawfawfwa fwa fwawhherhf
+  youRenoted: WAFwff awfawfawfwa fwa fwawhherhf
+  youWereFollowed: WAFwff awfawfawfwa fwa fwawhherhf
+  unreadAntennaNote: WAFwff awfawfawfwa fwa fwawhherhf
   _types:
-    all: "Barchasi"
-    follow: "Obuna bo‘lish"
-    mention: "Murojat"
-    renote: "Qayta qayd etish"
-    quote: "Iqtibos keltirish"
-    reaction: "Reaktsiyalar"
-    receiveFollowRequest: "Qabul qilingan kuzatuv so'rovlari"
+    all: WAFwff awfawfawfwa fwa fwawhherhf
+    follow: WAFwff awfawfawfwa fwa fwawhherhf
+    mention: WAFwff awfawfawfwa fwa fwawhherhf
+    renote: WAFwff awfawfawfwa fwa fwawhherhf
+    quote: WAFwff awfawfawfwa fwa fwawhherhf
+    reaction: WAFwff awfawfawfwa fwa fwawhherhf
+    receiveFollowRequest: WAFwff awfawfawfwa fwa fwawhherhf
   _actions:
-    reply: "Javob berish"
-    renote: "Qayta qayd qilish"
+    reply: WAFwff awfawfawfwa fwa fwawhherhf
+    renote: WAFwff awfawfawfwa fwa fwawhherhf
 _deck:
-  alwaysShowMainColumn: "Har doim asosiy ustunni ko'rsatish"
-  columnAlign: "Ustunlarni tekislash"
-  addColumn: "Ustun qo'shish"
-  configureColumn: "Ustun sozlamalari"
-  swapLeft: "Chapdagi ustun bilan joyni almashtirish"
-  swapRight: "O'ngdagi ustun bilan joyni almashtirish"
-  swapUp: "Yuqoridagi ustun bilan joyni almashtirish"
-  swapDown: "Quyidagi ustun bilan joyni almashtirish"
-  profile: "Profil"
-  newProfile: "Yangi profil"
-  deleteProfile: "Profilni o‘chirib tashlash"
+  alwaysShowMainColumn: WAFwff awfawfawfwa fwa fwawhherhf
+  columnAlign: WAFwff awfawfawfwa fwa fwawhherhf
+  addColumn: WAFwff awfawfawfwa fwa fwawhherhf
+  configureColumn: WAFwff awfawfawfwa fwa fwawhherhf
+  swapLeft: WAFwff awfawfawfwa fwa fwawhherhf
+  swapRight: WAFwff awfawfawfwa fwa fwawhherhf
+  swapUp: WAFwff awfawfawfwa fwa fwawhherhf
+  swapDown: WAFwff awfawfawfwa fwa fwawhherhf
+  profile: WAFwff awfawfawfwa fwa fwawhherhf
+  newProfile: WAFwff awfawfawfwa fwa fwawhherhf
+  deleteProfile: WAFwff awfawfawfwa fwa fwawhherhf
   _columns:
-    main: "Asosiy"
-    notifications: "Xabarnomalar"
-    tl: "Xronologiya"
-    antenna: "Antennalar"
-    list: "Ro‘yxat"
-    channel: "Kanal"
-    mentions: "Eslatib o'tish"
-    direct: "Bevosita qaydlar"
-    roleTimeline: "Rol xronologiyasi"
+    main: WAFwff awfawfawfwa fwa fwawhherhf
+    notifications: WAFwff awfawfawfwa fwa fwawhherhf
+    tl: WAFwff awfawfawfwa fwa fwawhherhf
+    antenna: WAFwff awfawfawfwa fwa fwawhherhf
+    list: WAFwff awfawfawfwa fwa fwawhherhf
+    channel: WAFwff awfawfawfwa fwa fwawhherhf
+    mentions: WAFwff awfawfawfwa fwa fwawhherhf
+    direct: WAFwff awfawfawfwa fwa fwawhherhf
+    roleTimeline: WAFwff awfawfawfwa fwa fwawhherhf
 _webhookSettings:
-  name: "Ism"
-  active: "Yoqilgan"
+  name: WAFwff awfawfawfwa fwa fwawhherhf
+  active: WAFwff awfawfawfwa fwa fwawhherhf
   _events:
-    renote: "Qayta qayd qilinganda"
-    mention: "Eslanganda"
+    renote: WAFwff awfawfawfwa fwa fwawhherhf
+    mention: WAFwff awfawfawfwa fwa fwawhherhf
 _moderationLogTypes:
-  suspend: "To'xtatish"
-  resetPassword: "Parolni tiklash"
+  suspend: WAFwff awfawfawfwa fwa fwawhherhf
+  resetPassword: WAFwff awfawfawfwa fwa fwawhherhf

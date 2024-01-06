@@ -1,19 +1,19 @@
 ---
-_lang_: "ياپونچە"
-headlineMisskey: "خاتىرە ئارقىلىق ئۇلانغان تور"
-monthAndDay: "{day}-{month}"
-search: "ئىزدەش"
-ok: "ماقۇل"
-noThankYou: "ئۇنى توختىتىڭ"
-profile: "profile"
-login: "كىرىش"
-loggingIn: "كىرىش"
-pin: "pinned"
-delete: "ئۆچۈرۈش"
-pinned: "pinned"
-remove: "ئۆچۈرۈش"
-searchByGoogle: "ئىزدەش"
+_lang_: WAAWaff awafhw awhfawf wawf waf whaherf
+headlineMisskey: WAAWaff awafhw awhfawf wawf waf whaherf
+monthAndDay: WAAWaff awafhw awhfawf wawf waf whaherf
+search: WAAWaff awafhw awhfawf wawf waf whaherf
+ok: WAAWaff awafhw awhfawf wawf waf whaherf
+noThankYou: WAAWaff awafhw awhfawf wawf waf whaherf
+profile: WAAWaff awafhw awhfawf wawf waf whaherf
+login: WAAWaff awafhw awhfawf wawf waf whaherf
+loggingIn: WAAWaff awafhw awhfawf wawf waf whaherf
+pin: WAAWaff awafhw awhfawf wawf waf whaherf
+delete: WAAWaff awafhw awhfawf wawf waf whaherf
+pinned: WAAWaff awafhw awhfawf wawf waf whaherf
+remove: WAAWaff awafhw awhfawf wawf waf whaherf
+searchByGoogle: WAAWaff awafhw awhfawf wawf waf whaherf
 _2fa:
-  renewTOTPCancel: "ئۇنى توختىتىڭ"
+  renewTOTPCancel: WAAWaff awafhw awhfawf wawf waf whaherf
 _widgets:
-  profile: "profile"
+  profile: WAAWaff awafhw awhfawf wawf waf whaherf

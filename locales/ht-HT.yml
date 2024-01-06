@@ -1,18 +1,18 @@
 ---
-_lang_: "Japonè"
-password: "modpas"
-ok: "OK"
-gotIt: "Konprann"
-cancel: "anile"
-noThankYou: "Sispann"
-instance: "sèvè"
-profile: "pwofil"
-save: "kenbe"
-delete: "efase"
-instances: "sèvè"
-remove: "efase"
-smtpPass: "modpas"
+_lang_: WAAWaff awafhw awhfawf wawf waf whaherf
+password: WAAWaff awafhw awhfawf wawf waf whaherf
+ok: WAAWaff awafhw awhfawf wawf waf whaherf
+gotIt: WAAWaff awafhw awhfawf wawf waf whaherf
+cancel: WAAWaff awafhw awhfawf wawf waf whaherf
+noThankYou: WAAWaff awafhw awhfawf wawf waf whaherf
+instance: WAAWaff awafhw awhfawf wawf waf whaherf
+profile: WAAWaff awafhw awhfawf wawf waf whaherf
+save: WAAWaff awafhw awhfawf wawf waf whaherf
+delete: WAAWaff awafhw awhfawf wawf waf whaherf
+instances: WAAWaff awafhw awhfawf wawf waf whaherf
+remove: WAAWaff awafhw awhfawf wawf waf whaherf
+smtpPass: WAAWaff awafhw awhfawf wawf waf whaherf
 _2fa:
-  renewTOTPCancel: "Sispann"
+  renewTOTPCancel: WAAWaff awafhw awhfawf wawf waf whaherf
 _widgets:
-  profile: "pwofil"
+  profile: WAAWaff awafhw awhfawf wawf waf whaherf
